@@ -1,7 +1,5 @@
 # Exposure-Weighted Multi-Omics Integration for Pediatric Metabolic Risk Profiling: An Exploratory Study in the HELIX Cohort
 
-This repository contains the project for the PM-606 class.
-
 ## Contents
 
 - `FINAl/`: Directory containing final project files.
