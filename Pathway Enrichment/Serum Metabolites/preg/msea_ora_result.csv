@@ -1,0 +1,818 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Amino acid transport across the plasma membrane",32,0.329,18,1.27e-29,4.22e-26,4.22e-26
+"Amino acid transport defects (IEMs)",27,0.278,17,3.67e-29,1.22e-25,6.09e-26
+"Transcription/Translation",25,0.257,16,1.36e-27,4.51e-24,1.5e-24
+"Na+/Cl- dependent neurotransmitter transporters",32,0.329,17,2.39e-27,7.92e-24,1.98e-24
+"Transport of inorganic cations/anions and amino acids/oligopeptides",52,0.534,19,1.13e-26,3.75e-23,7.52e-24
+"Amino acid metabolism",109,1.12,23,2.52e-26,8.33e-23,1.39e-23
+"SLC-mediated transmembrane transport",155,1.59,25,1.03e-25,3.42e-22,4.89e-23
+"Transport of bile salts and organic acids, metal ions and amine compounds",76,0.781,20,8.44e-25,2.79e-21,3.5e-22
+"Transport of small molecules",208,2.14,25,2.19e-22,7.25e-19,8.08e-20
+"Cytosolic tRNA aminoacylation",66,0.678,17,8.66e-21,2.86e-17,2.39e-18
+"tRNA Aminoacylation",66,0.678,17,8.66e-21,2.86e-17,2.39e-18
+"Mitochondrial tRNA aminoacylation",66,0.678,17,8.66e-21,2.86e-17,2.39e-18
+"Metabolism of amino acids and derivatives",283,2.91,26,2.45e-20,8.08e-17,6.24e-18
+"Variant SLC6A14 may confer susceptibility towards obesity",15,0.154,11,4.65e-20,1.54e-16,1.1e-17
+"SLC transporter disorders",80,0.822,17,3.21e-19,1.06e-15,7.09e-17
+"Translation",83,0.853,17,6.33e-19,2.09e-15,1.31e-16
+"Defective SLC6A19 causes Hartnup disorder (HND)",13,0.134,10,1.23e-18,4.06e-15,2.4e-16
+"Disorders of transmembrane transporters",98,1.01,17,1.3e-17,4.27e-14,2.39e-15
+"Glucose homeostasis",21,0.216,10,1.43e-15,4.73e-12,2.5e-13
+"Biochemical pathways: part I",445,4.57,26,2.4e-15,7.91e-12,3.98e-13
+"Tryptophan catabolism",33,0.339,11,5.8e-15,1.91e-11,8e-13
+"Amikacin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Arbekacin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Azithromycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Chloramphenicol Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Clarithromycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Clindamycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Clomocycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Demeclocycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Doxycycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Erythromycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Gentamicin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Josamycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Kanamycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Lincomycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Lymecycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Methacycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Minocycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Neomycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Netilmicin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Oxytetracycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Paromomycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Rolitetracycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Roxithromycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Spectinomycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Streptomycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Telithromycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Tetracycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Tigecycline Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Tobramycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"Troleandomycin Action Pathway",17,0.175,9,1.23e-14,4.06e-11,8e-13
+"mRNA, protein, and metabolite inducation pathway by cyclosporin A",13,0.134,8,7.9e-14,2.58e-10,5.04e-12
+"Metabolism of proteins",295,3.03,21,9.52e-14,3.11e-10,5.96e-12
+"Biomarkers for urea cycle disorders",22,0.226,8,1.84e-11,5.99e-08,1.13e-09
+"Urea cycle and metabolism of amino groups",34,0.349,9,2.34e-11,7.64e-08,1.41e-09
+"Metabolism",1370,14.1,34,7.19e-10,2.34e-06,4.25e-08
+"Trans-sulfuration, one-carbon metabolism and related pathways",58,0.596,9,3.98e-09,1.3e-05,2.31e-07
+"Biogenic amine synthesis",17,0.175,6,9.43e-09,3.07e-05,5.39e-07
+"Argininemia",22,0.226,6,5.47e-08,0.000178,2.88e-06
+"Argininosuccinic Aciduria",22,0.226,6,5.47e-08,0.000178,2.88e-06
+"Carbamoyl Phosphate Synthetase Deficiency",22,0.226,6,5.47e-08,0.000178,2.88e-06
+"Citrullinemia Type I",22,0.226,6,5.47e-08,0.000178,2.88e-06
+"Ornithine Transcarbamylase Deficiency (OTC Deficiency)",22,0.226,6,5.47e-08,0.000178,2.88e-06
+"Glycine, serine and threonine metabolism",56,0.576,8,6.31e-08,0.000205,3.27e-06
+"Nitrogen metabolism",25,0.257,6,1.27e-07,0.000413,6.47e-06
+"G alpha (q) signalling events",63,0.648,8,1.63e-07,0.00053,8.19e-06
+"Spermidine and Spermine Biosynthesis",14,0.144,5,1.7e-07,0.000552,8.28e-06
+"Urea cycle and related diseases",14,0.144,5,1.7e-07,0.000552,8.28e-06
+"Disease",470,4.83,18,2.64e-07,0.000857,1.27e-05
+"Urea cycle and associated pathways",30,0.308,6,4.09e-07,0.00133,1.94e-05
+"Arginine and proline metabolism",49,0.504,7,4.59e-07,0.00149,2.15e-05
+"T cell modulation in pancreatic cancer",8,0.0822,4,6.6e-07,0.00214,3.04e-05
+"Creatine pathway",18,0.185,5,7.05e-07,0.00229,3.2e-05
+"Alanine, aspartate and glutamate metabolism",58,0.596,7,1.5e-06,0.00487,6.73e-05
+"Metabolism of polyamines",21,0.216,5,1.64e-06,0.0053,7.23e-05
+"Urea cycle",22,0.226,5,2.1e-06,0.00681,9.17e-05
+"MECP2 and associated Rett syndrome",11,0.113,4,3.04e-06,0.00985,0.000131
+"Defective SLC3A1 causes cystinuria (CSNU)",4,0.0411,3,4.03e-06,0.013,0.000161
+"Defective SLC7A9 causes cystinuria (CSNU)",4,0.0411,3,4.03e-06,0.013,0.000161
+"Arginine: Glycine Amidinotransferase Deficiency (AGAT Deficiency)",44,0.452,6,4.37e-06,0.0142,0.000161
+"Creatine deficiency, guanidinoacetate methyltransferase deficiency",44,0.452,6,4.37e-06,0.0142,0.000161
+"Guanidinoacetate Methyltransferase Deficiency (GAMT Deficiency)",44,0.452,6,4.37e-06,0.0142,0.000161
+"Hyperornithinemia with gyrate atrophy (HOGA)",44,0.452,6,4.37e-06,0.0142,0.000161
+"Hyperornithinemia-hyperammonemia-homocitrullinuria [HHH-syndrome]",44,0.452,6,4.37e-06,0.0142,0.000161
+"Hyperprolinemia Type I",44,0.452,6,4.37e-06,0.0142,0.000161
+"Hyperprolinemia Type II",44,0.452,6,4.37e-06,0.0142,0.000161
+"L-arginine:glycine amidinotransferase deficiency",44,0.452,6,4.37e-06,0.0142,0.000161
+"Ornithine Aminotransferase Deficiency (OAT Deficiency)",44,0.452,6,4.37e-06,0.0142,0.000161
+"Prolidase Deficiency (PD)",44,0.452,6,4.37e-06,0.0142,0.000161
+"Prolinemia Type II",44,0.452,6,4.37e-06,0.0142,0.000161
+"Protein repair",12,0.123,4,4.53e-06,0.0146,0.000165
+"Methionine de novo and salvage pathway",48,0.493,6,7.37e-06,0.0238,0.000266
+"3-Phosphoglycerate dehydrogenase deficiency",49,0.504,6,8.34e-06,0.0269,0.000282
+"Dihydropyrimidine Dehydrogenase Deficiency (DHPD)",49,0.504,6,8.34e-06,0.0269,0.000282
+"Dimethylglycine Dehydrogenase Deficiency",49,0.504,6,8.34e-06,0.0269,0.000282
+"Hyperglycinemia, non-ketotic",49,0.504,6,8.34e-06,0.0269,0.000282
+"Non Ketotic Hyperglycinemia",49,0.504,6,8.34e-06,0.0269,0.000282
+"Sarcosinemia",49,0.504,6,8.34e-06,0.0269,0.000282
+"Sudden infant death syndrome (SIDS) susceptibility pathways",14,0.144,4,9.02e-06,0.029,0.000302
+"Methionine Metabolism",51,0.524,6,1.06e-05,0.034,0.000348
+"Canavan Disease",30,0.308,5,1.07e-05,0.0344,0.000348
+"Hypoacetylaspartia",30,0.308,5,1.07e-05,0.0344,0.000348
+"Creatine metabolism",15,0.154,4,1.22e-05,0.0392,0.000393
+"Aspartate Metabolism",31,0.319,5,1.27e-05,0.0407,0.000404
+"Metabolism overview",116,1.19,8,1.79e-05,0.0575,0.000565
+"Ras activation upon Ca2+ influx through NMDA receptor",6,0.0617,3,1.98e-05,0.0637,0.000609
+"Negative regulation of NMDA receptor-mediated neuronal transmission",6,0.0617,3,1.98e-05,0.0637,0.000609
+"Long-term potentiation",6,0.0617,3,1.98e-05,0.0637,0.000609
+"Amino acid metabolism pathway excerpt: histidine catabolism extension",17,0.175,4,2.1e-05,0.0673,0.000638
+"GPCR downstream signalling",156,1.6,9,2.13e-05,0.0685,0.000643
+"Glutaminolysis and Cancer",35,0.36,5,2.35e-05,0.0752,0.000701
+"Signal Transduction",345,3.55,13,2.51e-05,0.0804,0.000743
+"Amine Oxidase reactions",18,0.185,4,2.68e-05,0.0857,0.000785
+"Cystathionine Beta-Synthase Deficiency",37,0.38,5,3.1e-05,0.0994,0.000857
+"Glycine N-methyltransferase Deficiency",37,0.38,5,3.1e-05,0.0994,0.000857
+"Homocystinuria-megaloblastic anemia due to defect in cobalamin metabolism, cblG complementation type",37,0.38,5,3.1e-05,0.0994,0.000857
+"Hypermethioninemia",37,0.38,5,3.1e-05,0.0994,0.000857
+"Methionine Adenosyltransferase Deficiency",37,0.38,5,3.1e-05,0.0994,0.000857
+"Methylenetetrahydrofolate Reductase Deficiency (MTHFRD)",37,0.38,5,3.1e-05,0.0994,0.000857
+"S-Adenosylhomocysteine (SAH) Hydrolase Deficiency",37,0.38,5,3.1e-05,0.0994,0.000857
+"Unblocking of NMDA receptors, glutamate binding and activation",7,0.0719,3,3.45e-05,0.11,0.000945
+"Cysteine and methionine catabolism",39,0.401,5,4.04e-05,0.129,0.0011
+"Phenylalanine metabolism",20,0.206,4,4.17e-05,0.133,0.00113
+"Alanine and aspartate metabolism",21,0.216,4,5.12e-05,0.163,0.00137
+"Pyrimidine metabolism and related diseases",43,0.442,5,6.54e-05,0.209,0.00174
+"Glutamate and glutamine metabolism",23,0.236,4,7.46e-05,0.238,0.00195
+"Tryptophan catabolism leading to NAD+ production",23,0.236,4,7.46e-05,0.238,0.00195
+"Nitric oxide metabolism in cystic fibrosis",9,0.0925,3,8.15e-05,0.26,0.00211
+"Aspartate and asparagine metabolism",24,0.247,4,8.88e-05,0.283,0.00225
+"NAD biosynthesis II (from tryptophan)",24,0.247,4,8.88e-05,0.283,0.00225
+"Serine metabolism",24,0.247,4,8.88e-05,0.283,0.00225
+"Protein-protein interactions at synapses",2,0.0206,2,0.000103,0.329,0.00254
+"Synaptic adhesion-like molecules",2,0.0206,2,0.000103,0.329,0.00254
+"SALM protein interactions at the synapse",2,0.0206,2,0.000103,0.329,0.00254
+"Metabolism of nitric oxide: NOS3 activation and regulation",25,0.257,4,0.000105,0.334,0.00254
+"eNOS activation",25,0.257,4,0.000105,0.334,0.00254
+"Neurotransmitter receptors and postsynaptic signal transmission",25,0.257,4,0.000105,0.334,0.00254
+"Transmission across Chemical Synapses",77,0.791,6,0.000114,0.363,0.00272
+"Neuronal System",77,0.791,6,0.000114,0.363,0.00272
+"Carboxyterminal post-translational modifications of tubulin",10,0.103,3,0.000116,0.367,0.00272
+"CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling",10,0.103,3,0.000116,0.367,0.00272
+"Neuroinflammation and glutamatergic signaling",26,0.267,4,0.000123,0.391,0.00288
+"Organic cation transport",27,0.278,4,0.000143,0.455,0.0033
+"Extra-nuclear estrogen signaling",27,0.278,4,0.000143,0.455,0.0033
+"Miscellaneous transport and binding events",11,0.113,3,0.000158,0.501,0.00359
+"PAOs oxidise polyamines to amines",11,0.113,3,0.000158,0.501,0.00359
+"22q11.2 copy number variation syndrome",28,0.288,4,0.000166,0.527,0.00375
+"Tryptophan metabolism",53,0.545,5,0.000181,0.573,0.00402
+"G alpha (q) signaling events",53,0.545,5,0.000181,0.573,0.00402
+"Disorders of folate metabolism and transport",29,0.298,4,0.000191,0.606,0.00423
+"GPCR ligand binding",211,2.17,9,0.000227,0.719,0.00498
+"Peptide hormone metabolism",56,0.576,5,0.000235,0.744,0.00513
+"Biosynthesis and regeneration of tetrahydrobiopterin and catabolism of phenylalanine",31,0.319,4,0.00025,0.79,0.00541
+"Class C/3 (Metabotropic glutamate/pheromone receptors)",57,0.586,5,0.000256,0.809,0.00551
+"Post NMDA receptor activation events",13,0.134,3,0.00027,0.853,0.00566
+"Interconversion of polyamines",13,0.134,3,0.00027,0.853,0.00566
+"Glycine metabolism",13,0.134,3,0.00027,0.853,0.00566
+"Pleural mesothelioma",13,0.134,3,0.00027,0.853,0.00566
+"Defective SLC7A7 causes lysinuric protein intolerance (LPI)",3,0.0308,2,0.000308,0.972,0.00638
+"Serotonin transporter activity",3,0.0308,2,0.000308,0.972,0.00638
+"ESR-mediated signaling",33,0.339,4,0.00032,1,0.00659
+"Trans-sulfuration pathway",14,0.144,3,0.000341,1,0.00698
+"Organic cation/anion/zwitterion transport",34,0.349,4,0.00036,1,0.00727
+"Fatty Acid Biosynthesis",34,0.349,4,0.00036,1,0.00727
+"Lactic Acidemia",15,0.154,3,0.000423,1,0.0083
+"Primary Hyperoxaluria Type I",15,0.154,3,0.000423,1,0.0083
+"Pyruvate Carboxylase Deficiency",15,0.154,3,0.000423,1,0.0083
+"NO/cGMP/PKG mediated neuroprotection",15,0.154,3,0.000423,1,0.0083
+"Glyoxylate metabolism",15,0.154,3,0.000423,1,0.0083
+"Metabolism of amine-derived hormones",36,0.37,4,0.00045,1,0.00878
+"Branched-chain amino acid catabolism",37,0.38,4,0.000501,1,0.00971
+"VEGFR2 mediated vascular permeability",16,0.164,3,0.000517,1,0.00996
+"Signaling by GPCR",236,2.43,9,0.000524,1,0.01
+"Glyoxylate metabolism and glycine degradation",38,0.391,4,0.000556,1,0.0105
+"Metabolic reprogramming in colon cancer",38,0.391,4,0.000556,1,0.0105
+"Metabolism of vitamins and cofactors",189,1.94,8,0.000561,1,0.0106
+"Proton-coupled neutral amino acid transporters",4,0.0411,2,0.000611,1,0.0109
+"Alanine metabolism",4,0.0411,2,0.000611,1,0.0109
+"2-Hydroxyglutric Aciduria (D And L Form)",39,0.401,4,0.000615,1,0.0109
+"4-Hydroxybutyric Aciduria/Succinic Semialdehyde Dehydrogenase Deficiency",39,0.401,4,0.000615,1,0.0109
+"Glutamate Metabolism",39,0.401,4,0.000615,1,0.0109
+"Homocarnosinosis",39,0.401,4,0.000615,1,0.0109
+"Hyperinsulinism-Hyperammonemia Syndrome",39,0.401,4,0.000615,1,0.0109
+"Succinic semialdehyde dehydrogenase deficiency",39,0.401,4,0.000615,1,0.0109
+"Glutathione metabolism",17,0.175,3,0.000623,1,0.0109
+"5-oxoprolinase deficiency",17,0.175,3,0.000623,1,0.0109
+"Gamma-glutamyl-transpeptidase deficiency",17,0.175,3,0.000623,1,0.0109
+"Gamma-Glutamyltransferase Deficiency",17,0.175,3,0.000623,1,0.0109
+"Glutathione Synthetase Deficiency",17,0.175,3,0.000623,1,0.0109
+"Developmental Biology",40,0.411,4,0.000678,1,0.0118
+"Activation of NMDA receptors and postsynaptic events",18,0.185,3,0.000742,1,0.0129
+"Defective SLC1A3 causes episodic ataxia 6 (EA6)",5,0.0514,2,0.00101,1,0.0173
+"Defective SLC1A1 is implicated in schizophrenia 18 (SCZD18) and dicarboxylic aminoaciduria (DCBXA)",5,0.0514,2,0.00101,1,0.0173
+"Axon guidance",20,0.206,3,0.00102,1,0.0173
+"Nervous system development",20,0.206,3,0.00102,1,0.0173
+"Sarcosine Oncometabolite Pathway",20,0.206,3,0.00102,1,0.0173
+"Neurotransmitter release cycle",46,0.473,4,0.00116,1,0.0192
+"RAF/MAP kinase cascade",46,0.473,4,0.00116,1,0.0192
+"MAPK family signaling cascades",46,0.473,4,0.00116,1,0.0192
+"MAPK1/MAPK3 signaling",46,0.473,4,0.00116,1,0.0192
+"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)",21,0.216,3,0.00118,1,0.0193
+"Incretin synthesis, secretion, and inactivation",21,0.216,3,0.00118,1,0.0193
+"Ethanol effects on histone modifications",21,0.216,3,0.00118,1,0.0193
+"Agmatine biosynthesis",6,0.0617,2,0.00151,1,0.0244
+"Amino acids regulate mTORC1",6,0.0617,2,0.00151,1,0.0244
+"Free fatty acid receptors",23,0.236,3,0.00155,1,0.0248
+"Neurotransmitter disorders",23,0.236,3,0.00155,1,0.0248
+"Methionine metabolism leading to sulfur amino acids and related disorders",23,0.236,3,0.00155,1,0.0248
+"Signaling by Nuclear Receptors",50,0.514,4,0.00159,1,0.0249
+"Valine, leucine and isoleucine degradation",51,0.524,4,0.00171,1,0.0249
+"Metabolic disorders of biological oxidation enzymes",51,0.524,4,0.00171,1,0.0249
+"2-Methyl-3-Hydroxybutryl CoA Dehydrogenase Deficiency",51,0.524,4,0.00171,1,0.0249
+"3-Hydroxy-3-Methylglutaryl-CoA Lyase Deficiency",51,0.524,4,0.00171,1,0.0249
+"3-hydroxyisobutyric acid dehydrogenase deficiency",51,0.524,4,0.00171,1,0.0249
+"3-hydroxyisobutyric aciduria",51,0.524,4,0.00171,1,0.0249
+"3-Methylcrotonyl Coa Carboxylase Deficiency Type I",51,0.524,4,0.00171,1,0.0249
+"3-Methylglutaconic Aciduria Type I",51,0.524,4,0.00171,1,0.0249
+"3-Methylglutaconic Aciduria Type III",51,0.524,4,0.00171,1,0.0249
+"3-Methylglutaconic Aciduria Type IV",51,0.524,4,0.00171,1,0.0249
+"Beta-Ketothiolase Deficiency",51,0.524,4,0.00171,1,0.0249
+"Isobutyryl-coa dehydrogenase deficiency",51,0.524,4,0.00171,1,0.0249
+"Isovaleric acidemia",51,0.524,4,0.00171,1,0.0249
+"Isovaleric Aciduria",51,0.524,4,0.00171,1,0.0249
+"Maple Syrup Urine Disease",51,0.524,4,0.00171,1,0.0249
+"Methylmalonate Semialdehyde Dehydrogenase Deficiency",51,0.524,4,0.00171,1,0.0249
+"Methylmalonic Aciduria",51,0.524,4,0.00171,1,0.0249
+"Propionic Acidemia",51,0.524,4,0.00171,1,0.0249
+"Metabolism of folate and pterines",24,0.247,3,0.00176,1,0.0254
+"Tyrosinemia Type 2 (or Richner-Hanhart syndrome)",24,0.247,3,0.00176,1,0.0254
+"Tyrosinemia Type 3 (TYRO3)",24,0.247,3,0.00176,1,0.0254
+"Metabolism of water-soluble vitamins and cofactors",129,1.33,6,0.00184,1,0.0264
+"One-carbon metabolism",25,0.257,3,0.00199,1,0.0282
+"Metabolic pathways of fibroblasts",25,0.257,3,0.00199,1,0.0282
+"Cerebral organic acidurias, including diseases",25,0.257,3,0.00199,1,0.0282
+"Insulin processing",7,0.0719,2,0.0021,1,0.0291
+"LTC4-CYSLTR mediated IL4 production",7,0.0719,2,0.0021,1,0.0291
+"Malate-Aspartate Shuttle",7,0.0719,2,0.0021,1,0.0291
+"Effects of nitric oxide",7,0.0719,2,0.0021,1,0.0291
+"Synaptic vesicle pathway",7,0.0719,2,0.0021,1,0.0291
+"Omega-9 fatty acid synthesis",27,0.278,3,0.00249,1,0.0345
+"beta-Alanine metabolism",28,0.288,3,0.00277,1,0.0369
+"Phenylalanine and Tyrosine Metabolism",28,0.288,3,0.00277,1,0.0369
+"Signaling by VEGF",28,0.288,3,0.00277,1,0.0369
+"VEGFA-VEGFR2 Pathway",28,0.288,3,0.00277,1,0.0369
+"Carnosinuria, carnosinemia",28,0.288,3,0.00277,1,0.0369
+"GABA-Transaminase Deficiency",28,0.288,3,0.00277,1,0.0369
+"Ureidopropionase Deficiency",28,0.288,3,0.00277,1,0.0369
+"Glucose-Alanine Cycle",8,0.0822,2,0.00278,1,0.0369
+"Major receptors targeted by epinephrine and norepinephrine",8,0.0822,2,0.00278,1,0.0369
+"Physico-chemical features and toxicity-associated pathways",8,0.0822,2,0.00278,1,0.0369
+"Folate metabolism",61,0.627,4,0.00331,1,0.0437
+"Defective SLC27A4 causes ichthyosis prematurity syndrome (IPS)",9,0.0925,2,0.00355,1,0.0464
+"Biosynthesis of maresin conjugates in tissue regeneration (MCTR)",9,0.0925,2,0.00355,1,0.0464
+"Carnosine metabolism of glial cells",9,0.0925,2,0.00355,1,0.0464
+"Sulfur amino acid metabolism",65,0.668,4,0.00417,1,0.0541
+"Biological oxidations",317,3.26,9,0.00418,1,0.0541
+"D-Arginine and D-Ornithine Metabolism",10,0.103,2,0.00441,1,0.0556
+"Transport of fatty acids",10,0.103,2,0.00441,1,0.0556
+"EPH-Ephrin signaling",10,0.103,2,0.00441,1,0.0556
+"EPHB-mediated forward signaling",10,0.103,2,0.00441,1,0.0556
+"Cellular response to starvation",10,0.103,2,0.00441,1,0.0556
+"Amyotrophic lateral sclerosis (ALS)",10,0.103,2,0.00441,1,0.0556
+"Neuroinflammation",10,0.103,2,0.00441,1,0.0556
+"Metabolism of ingested SeMet, Sec, MeSec into H2Se",33,0.339,3,0.00446,1,0.056
+"Leucine, isoleucine and valine metabolism",67,0.689,4,0.00465,1,0.0582
+"Fabry disease",35,0.36,3,0.00527,1,0.0647
+"Gaucher Disease",35,0.36,3,0.00527,1,0.0647
+"Globoid Cell Leukodystrophy",35,0.36,3,0.00527,1,0.0647
+"Krabbe disease",35,0.36,3,0.00527,1,0.0647
+"Metachromatic Leukodystrophy (MLD)",35,0.36,3,0.00527,1,0.0647
+"Glycerophospholipid catabolism",11,0.113,2,0.00535,1,0.0653
+"Gamma-glutamyl cycle for the biosynthesis and degradation of glutathione, including diseases",11,0.113,2,0.00535,1,0.0653
+"Purine ribonucleoside monophosphate biosynthesis",36,0.37,3,0.00571,1,0.0691
+"Sphingolipid de novo biosynthesis",36,0.37,3,0.00571,1,0.0691
+"Degradation of cysteine and homocysteine",37,0.38,3,0.00617,1,0.0744
+"Threonine catabolism",13,0.134,2,0.00749,1,0.0897
+"Glutathione synthesis and recycling",13,0.134,2,0.00749,1,0.0897
+"Serine biosynthesis",14,0.144,2,0.00869,1,0.102
+"Tyrosine catabolism",14,0.144,2,0.00869,1,0.102
+"Endothelin pathways",14,0.144,2,0.00869,1,0.102
+"Monoamine transport",14,0.144,2,0.00869,1,0.102
+"Sphingolipid metabolism in senescence",14,0.144,2,0.00869,1,0.102
+"Thyroxine biosynthesis",15,0.154,2,0.00996,1,0.114
+"Choline catabolism",15,0.154,2,0.00996,1,0.114
+"Serotonin and melatonin biosynthesis",15,0.154,2,0.00996,1,0.114
+"5-Oxoprolinuria",15,0.154,2,0.00996,1,0.114
+"Biotin metabolism, including IMDs",15,0.154,2,0.00996,1,0.114
+"Linoleic acid metabolism affected by SARS-CoV-2",15,0.154,2,0.00996,1,0.114
+"NAD+ biosynthetic pathways",15,0.154,2,0.00996,1,0.114
+"Nucleobase biosynthesis",46,0.473,3,0.0113,1,0.129
+"Phase I - Functionalization of compounds",189,1.94,6,0.0119,1,0.136
+"Nucleotide biosynthesis",47,0.483,3,0.012,1,0.136
+"Nitric oxide stimulates guanylate cyclase",17,0.175,2,0.0127,1,0.144
+"Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)",17,0.175,2,0.0127,1,0.144
+"Molybdenum cofactor biosynthesis",18,0.185,2,0.0142,1,0.16
+"Starch and sucrose metabolism",52,0.534,3,0.0158,1,0.175
+"Amino acid metabolism in triple-negative breast cancer cells",19,0.195,2,0.0158,1,0.175
+"Vitamin B6-dependent and responsive disorders",19,0.195,2,0.0158,1,0.175
+"7q11.23 copy number variation syndrome",19,0.195,2,0.0158,1,0.175
+"Beta-oxidation of pristanoyl-CoA",20,0.206,2,0.0174,1,0.192
+"Recycling of bile acids and salts",20,0.206,2,0.0174,1,0.192
+"Vitamin B12 metabolism",55,0.565,3,0.0183,1,0.201
+"Biosynthesis of DHA-derived sulfido conjugates",21,0.216,2,0.0192,1,0.21
+"Presynaptic function of Kainate receptors",2,0.0206,1,0.0205,1,0.217
+"Defective SLC17A8 causes autosomal dominant deafness 25 (DFNA25)",2,0.0206,1,0.0205,1,0.217
+"Serotonin receptor 4/6/7 and NR3C signaling",2,0.0206,1,0.0205,1,0.217
+"Serotonin and anxiety-related events",2,0.0206,1,0.0205,1,0.217
+"Histidine catabolism",22,0.226,2,0.0209,1,0.217
+"Pyrimidine biosynthesis",22,0.226,2,0.0209,1,0.217
+"2-aminoadipic 2-oxoadipic aciduria",22,0.226,2,0.0209,1,0.217
+"Hyperlysinemia I, Familial",22,0.226,2,0.0209,1,0.217
+"Hyperlysinemia II or Saccharopinuria",22,0.226,2,0.0209,1,0.217
+"Pyridoxine dependency with seizures",22,0.226,2,0.0209,1,0.217
+"Saccharopinuria/Hyperlysinemia II",22,0.226,2,0.0209,1,0.217
+"MTHFR deficiency",22,0.226,2,0.0209,1,0.217
+"Neurodegeneration with brain iron accumulation (NBIA) subtypes pathway",22,0.226,2,0.0209,1,0.217
+"27-Hydroxylase Deficiency",58,0.596,3,0.0211,1,0.217
+"Cerebrotendinous Xanthomatosis (CTX)",58,0.596,3,0.0211,1,0.217
+"Congenital Bile Acid Synthesis Defect Type II",58,0.596,3,0.0211,1,0.217
+"Congenital Bile Acid Synthesis Defect Type III",58,0.596,3,0.0211,1,0.217
+"Familial Hypercholanemia (FHCA)",58,0.596,3,0.0211,1,0.217
+"Zellweger Syndrome",58,0.596,3,0.0211,1,0.217
+"Purine metabolism and related disorders",58,0.596,3,0.0211,1,0.217
+"Primary bile acid biosynthesis",59,0.606,3,0.0221,1,0.226
+"Selenium micronutrient network",106,1.09,4,0.0226,1,0.229
+"Selenocompound metabolism",23,0.236,2,0.0228,1,0.229
+"Krebs cycle disorders",23,0.236,2,0.0228,1,0.229
+"Synthesis of ceramides and 1-deoxyceramides",23,0.236,2,0.0228,1,0.229
+"Alkaptonuria",60,0.617,3,0.0231,1,0.229
+"Dopamine beta-hydroxylase deficiency",60,0.617,3,0.0231,1,0.229
+"Hawkinsinuria",60,0.617,3,0.0231,1,0.229
+"Monoamine oxidase-a deficiency (MAO-A)",60,0.617,3,0.0231,1,0.229
+"Tyrosinemia Type I",60,0.617,3,0.0231,1,0.229
+"Tyrosinemia, transient, of the newborn",60,0.617,3,0.0231,1,0.229
+"Diseases of metabolism",162,1.67,5,0.0241,1,0.238
+"Lysine degradation",24,0.247,2,0.0247,1,0.24
+"Anti-inflammatory response favouring Leishmania parasite infection",24,0.247,2,0.0247,1,0.24
+"Leishmania parasite growth and survival",24,0.247,2,0.0247,1,0.24
+"Oxidation of Branched Chain Fatty Acids",24,0.247,2,0.0247,1,0.24
+"Tyrosine metabolism and related disorders",24,0.247,2,0.0247,1,0.24
+"Sphingolipid pathway",24,0.247,2,0.0247,1,0.24
+"Transport of vitamins, nucleosides, and related molecules",62,0.637,3,0.0251,1,0.243
+"Signaling by Receptor Tyrosine Kinases",62,0.637,3,0.0251,1,0.243
+"PI Metabolism",25,0.257,2,0.0267,1,0.256
+"Proximal tubule transport",25,0.257,2,0.0267,1,0.256
+"Sphingolipid metabolism",64,0.658,3,0.0273,1,0.262
+"Post-translational protein modification",169,1.74,5,0.0283,1,0.27
+"Long-chain-3-hydroxyacyl-coa dehydrogenase deficiency (LCHAD)",26,0.267,2,0.0287,1,0.272
+"Adenine phosphoribosyltransferase deficiency (APRT)",66,0.678,3,0.0296,1,0.272
+"Adenosine Deaminase Deficiency",66,0.678,3,0.0296,1,0.272
+"Adenylosuccinate Lyase Deficiency",66,0.678,3,0.0296,1,0.272
+"AICA-Ribosiduria",66,0.678,3,0.0296,1,0.272
+"Gout or Kelley-Seegmiller Syndrome",66,0.678,3,0.0296,1,0.272
+"Lesch-Nyhan Syndrome (LNS)",66,0.678,3,0.0296,1,0.272
+"Mitochondrial DNA depletion syndrome",66,0.678,3,0.0296,1,0.272
+"Molybdenum Cofactor Deficiency",66,0.678,3,0.0296,1,0.272
+"Myoadenylate deaminase deficiency",66,0.678,3,0.0296,1,0.272
+"Purine Nucleoside Phosphorylase Deficiency",66,0.678,3,0.0296,1,0.272
+"Xanthine Dehydrogenase Deficiency (Xanthinuria)",66,0.678,3,0.0296,1,0.272
+"Xanthinuria type I",66,0.678,3,0.0296,1,0.272
+"Xanthinuria type II",66,0.678,3,0.0296,1,0.272
+"Defective SLC36A2 causes iminoglycinuria (IG) and hyperglycinuria (HG)",3,0.0308,1,0.0305,1,0.272
+"Activation of AMPA receptors",3,0.0308,1,0.0305,1,0.272
+"Activation of Ca-permeable Kainate Receptor",3,0.0308,1,0.0305,1,0.272
+"Activation of Na-permeable kainate receptors",3,0.0308,1,0.0305,1,0.272
+"Defective SLC6A5 causes hyperekplexia 3 (HKPX3)",3,0.0308,1,0.0305,1,0.272
+"UCH proteinases",3,0.0308,1,0.0305,1,0.272
+"Defective GCLC causes HAGGSD",3,0.0308,1,0.0305,1,0.272
+"Fas ligand pathway and stress induction of heat shock proteins",3,0.0308,1,0.0305,1,0.272
+"Prader-Willi and Angelman syndrome",3,0.0308,1,0.0305,1,0.272
+"Lac-Phe pathway",3,0.0308,1,0.0305,1,0.272
+"Serotonin receptor 2 and ELK-SRF/GATA4 signaling",3,0.0308,1,0.0305,1,0.272
+"Purine metabolism",67,0.689,3,0.0307,1,0.272
+"Selenoamino acid metabolism",67,0.689,3,0.0307,1,0.272
+"GABA metabolism (aka GHB)",27,0.278,2,0.0308,1,0.272
+"Tyrosine metabolism",68,0.699,3,0.0319,1,0.281
+"Disulfiram Action Pathway",68,0.699,3,0.0319,1,0.281
+"Fatty Acid Elongation In Mitochondria",28,0.288,2,0.033,1,0.288
+"Kynurenine pathway and links to cell senescence",28,0.288,2,0.033,1,0.288
+"Aflatoxin activation and detoxification",29,0.298,2,0.0352,1,0.305
+"Glutathione conjugation",29,0.298,2,0.0352,1,0.305
+"Synthesis of Leukotrienes (LT) and Eoxins (EX)",29,0.298,2,0.0352,1,0.305
+"Paracetamol ADME",30,0.308,2,0.0374,1,0.322
+"Lysine catabolism",30,0.308,2,0.0374,1,0.322
+"Metabolic reprogramming in pancreatic cancer",30,0.308,2,0.0374,1,0.322
+"Metabolism of lipids",608,6.25,11,0.0396,1,0.333
+"Gluconeogenesis",31,0.319,2,0.0398,1,0.333
+"The oncogenic action of 2-hydroxyglutarate",31,0.319,2,0.0398,1,0.333
+"The oncogenic action of D-2-hydroxyglutarate in  Hydroxygluaricaciduria",31,0.319,2,0.0398,1,0.333
+"The oncogenic action of L-2-hydroxyglutarate in  Hydroxygluaricaciduria",31,0.319,2,0.0398,1,0.333
+"GABA synthesis",4,0.0411,1,0.0405,1,0.333
+"Phenylketonuria",4,0.0411,1,0.0405,1,0.333
+"Oleoyl-phe metabolism",4,0.0411,1,0.0405,1,0.333
+"Ionotropic activity of kainate receptors",4,0.0411,1,0.0405,1,0.333
+"Activation of kainate receptors upon glutamate binding",4,0.0411,1,0.0405,1,0.333
+"Defective GSS causes GSS deficiency",4,0.0411,1,0.0405,1,0.333
+"Defective MAOA causes BRUNS",4,0.0411,1,0.0405,1,0.333
+"Proton/oligopeptide cotransporters",4,0.0411,1,0.0405,1,0.333
+"Methylhistidine Metabolism",4,0.0411,1,0.0405,1,0.333
+"Common pathways underlying drug addiction",4,0.0411,1,0.0405,1,0.333
+"Parkinson's disease pathway",4,0.0411,1,0.0405,1,0.333
+"15q13.3 copy number variation syndrome",4,0.0411,1,0.0405,1,0.333
+"TNF-alpha signaling pathway",4,0.0411,1,0.0405,1,0.333
+"Histidine metabolism",34,0.349,2,0.0471,1,0.381
+"Propanoate metabolism",34,0.349,2,0.0471,1,0.381
+"Histidinemia",34,0.349,2,0.0471,1,0.381
+"Malonic Aciduria",34,0.349,2,0.0471,1,0.381
+"Malonyl-coa decarboxylase deficiency",34,0.349,2,0.0471,1,0.381
+"Methylmalonic Aciduria Due to Cobalamin-Related Disorders",34,0.349,2,0.0471,1,0.381
+"Metabolism of sphingolipids in ER and Golgi apparatus",34,0.349,2,0.0471,1,0.381
+"Mercaptopurine Action Pathway",80,0.822,3,0.0481,1,0.388
+"Platelet homeostasis",35,0.36,2,0.0496,1,0.389
+"Carnitine palmitoyl transferase deficiency (I)",35,0.36,2,0.0496,1,0.389
+"Carnitine palmitoyl transferase deficiency (II)",35,0.36,2,0.0496,1,0.389
+"Ethylmalonic Encephalopathy",35,0.36,2,0.0496,1,0.389
+"Glutaric Aciduria Type I",35,0.36,2,0.0496,1,0.389
+"Long chain acyl-CoA dehydrogenase deficiency (LCAD)",35,0.36,2,0.0496,1,0.389
+"Medium chain acyl-coa dehydrogenase deficiency (MCAD)",35,0.36,2,0.0496,1,0.389
+"Short Chain Acyl CoA Dehydrogenase Deficiency (SCAD Deficiency)",35,0.36,2,0.0496,1,0.389
+"Trifunctional protein deficiency",35,0.36,2,0.0496,1,0.389
+"Very-long-chain acyl coa dehydrogenase deficiency (VLCAD)",35,0.36,2,0.0496,1,0.389
+"Thioguanine Action Pathway",81,0.833,3,0.0496,1,0.389
+"Biotin Metabolism",5,0.0514,1,0.0504,1,0.389
+"Defective MAT1A causes MATD",5,0.0514,1,0.0504,1,0.389
+"Serotonin Neurotransmitter Release Cycle",5,0.0514,1,0.0504,1,0.389
+"Biotinidase Deficiency",5,0.0514,1,0.0504,1,0.389
+"Multiple carboxylase deficiency, neonatal or early onset form",5,0.0514,1,0.0504,1,0.389
+"Methylation pathways",5,0.0514,1,0.0504,1,0.389
+"Gut-liver indole metabolism",5,0.0514,1,0.0504,1,0.389
+"Hemostasis",82,0.843,3,0.0511,1,0.393
+"Azathioprine Action Pathway",82,0.843,3,0.0511,1,0.393
+"Fatty acid Metabolism",36,0.37,2,0.0522,1,0.4
+"Sensory Perception",203,2.09,5,0.0553,1,0.423
+"Mitochondrial beta-oxidation",142,1.46,4,0.0566,1,0.432
+"Cellular responses to stress",87,0.894,3,0.0591,1,0.447
+"Synthesis of PS",6,0.0617,1,0.0601,1,0.447
+"Intracellular metabolism of fatty acids regulates insulin secretion",6,0.0617,1,0.0601,1,0.447
+"Neurotransmitter uptake and metabolism In glial cells",6,0.0617,1,0.0601,1,0.447
+"Astrocytic Glutamate-Glutamine Uptake And Metabolism",6,0.0617,1,0.0601,1,0.447
+"Excitatory Neural Signalling Through 5-HTR 4 and Serotonin",6,0.0617,1,0.0601,1,0.447
+"Excitatory Neural Signalling Through 5-HTR 6 and Serotonin",6,0.0617,1,0.0601,1,0.447
+"Excitatory Neural Signalling Through 5-HTR 7 and Serotonin",6,0.0617,1,0.0601,1,0.447
+"Fragile X syndrome",6,0.0617,1,0.0601,1,0.447
+"Serotonin HTR1 group and FOS pathway",6,0.0617,1,0.0601,1,0.447
+"MTOR signaling",6,0.0617,1,0.0601,1,0.447
+"16p11.2 proximal deletion syndrome",39,0.401,2,0.0602,1,0.447
+"Ferroptosis",39,0.401,2,0.0602,1,0.447
+"Cellular responses to stimuli",89,0.915,3,0.0624,1,0.462
+"G alpha (i) signaling events",91,0.935,3,0.0659,1,0.486
+"Glucose metabolism",42,0.432,2,0.0686,1,0.505
+"Hypusine synthesis from eIF5A-lysine",7,0.0719,1,0.0698,1,0.505
+"RORA activates gene expression",7,0.0719,1,0.0698,1,0.505
+"BMAL1:CLOCK,NPAS2 activates circadian gene expression",7,0.0719,1,0.0698,1,0.505
+"Sensory processing of sound by inner hair cells of the cochlea",7,0.0719,1,0.0698,1,0.505
+"Gamma-cystathionase deficiency (CTH)",7,0.0719,1,0.0698,1,0.505
+"Homocystinuria, cystathionine beta-synthase deficiency",7,0.0719,1,0.0698,1,0.505
+"Monoamine GPCRs",7,0.0719,1,0.0698,1,0.505
+"Roles of ceramides in development of insulin resistance",7,0.0719,1,0.0698,1,0.505
+"Sensory perception of sweet, bitter, and umami (glutamate) taste",94,0.966,3,0.0712,1,0.514
+"Class A/1 (Rhodopsin-like receptors)",154,1.58,4,0.0719,1,0.517
+"Metabolism of nucleotides",154,1.58,4,0.0719,1,0.517
+"Immune System",155,1.59,4,0.0733,1,0.526
+"Leishmania infection",44,0.452,2,0.0744,1,0.532
+"Parasitic Infection Pathways",44,0.452,2,0.0744,1,0.532
+"Glycerophospholipid biosynthesis",97,0.997,3,0.0767,1,0.547
+"Sensory perception of taste",98,1.01,3,0.0785,1,0.55
+"Cysteine formation from homocysteine",8,0.0822,1,0.0794,1,0.55
+"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)",8,0.0822,1,0.0794,1,0.55
+"Activation of gene expression by SREBF (SREBP)",8,0.0822,1,0.0794,1,0.55
+"Glutamate Neurotransmitter Release Cycle",8,0.0822,1,0.0794,1,0.55
+"Glutamate binding, activation of AMPA receptors and synaptic plasticity",8,0.0822,1,0.0794,1,0.55
+"Conjugation of salicylate with glycine",8,0.0822,1,0.0794,1,0.55
+"Conjugation of benzoate with glycine",8,0.0822,1,0.0794,1,0.55
+"Homocysteine Degradation",8,0.0822,1,0.0794,1,0.55
+"Carfentanil Action Pathway",8,0.0822,1,0.0794,1,0.55
+"Phosphatidylethanolamine Biosynthesis",8,0.0822,1,0.0794,1,0.55
+"Acrylamide biotransformation and exposure biomarkers",8,0.0822,1,0.0794,1,0.55
+"Glycolysis in senescence",8,0.0822,1,0.0794,1,0.55
+"Nanoparticle triggered regulated necrosis",8,0.0822,1,0.0794,1,0.55
+"ROS and RNS production in phagocytes",46,0.473,2,0.0804,1,0.555
+"Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol",47,0.483,2,0.0834,1,0.557
+"Biotin transport and metabolism",9,0.0925,1,0.0889,1,0.557
+"Scavenging by Class F Receptors",9,0.0925,1,0.0889,1,0.557
+"Hydrolysis of LPC",9,0.0925,1,0.0889,1,0.557
+"Degradation of GABA",9,0.0925,1,0.0889,1,0.557
+"MTOR signalling",9,0.0925,1,0.0889,1,0.557
+"3-Methylthiofentanyl Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Alfentanil Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Alvimopan Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Anileridine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Benzocaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Bupivacaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Buprenorphine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Chloroprocaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Cocaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Dezocine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Dibucaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Dihydromorphine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Dimethylthiambutene Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Diphenoxylate Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Escitalopram Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Ethylmorphine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Fentanyl Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Hydrocodone Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Hydromorphone Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Ketobemidone  Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Levallorphan Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Levobupivacaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Levomethadyl Acetate Action Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Levorphanol Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Mepivacaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Methadyl Acetate Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Nalbuphine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Naloxone Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Naltrexone Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Oxybuprocaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Oxycodone Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Oxymorphone Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Pentazocine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Prilocaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Procaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Proparacaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Propoxyphene Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Remifentanil Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Ropivacaine Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Sufentanil Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Tramadol Action Action Pathway",9,0.0925,1,0.0889,1,0.557
+"Nicotine effect on dopaminergic neurons",9,0.0925,1,0.0889,1,0.557
+"GPCRs, class A rhodopsin-like",9,0.0925,1,0.0889,1,0.557
+"Sphingolipid metabolism: integrated pathway",49,0.504,2,0.0896,1,0.561
+"Phospholipid metabolism",105,1.08,3,0.0922,1,0.576
+"Glycine degradation",10,0.103,1,0.0983,1,0.598
+"Proline catabolism",10,0.103,1,0.0983,1,0.598
+"L1CAM interactions",10,0.103,1,0.0983,1,0.598
+"Sensory processing of sound",10,0.103,1,0.0983,1,0.598
+"Metabolism of serotonin",10,0.103,1,0.0983,1,0.598
+"Deubiquitination",10,0.103,1,0.0983,1,0.598
+"Serotonin receptors",10,0.103,1,0.0983,1,0.598
+"Role of carnosine in muscle contraction",10,0.103,1,0.0983,1,0.598
+"Acetylcholine synthesis",10,0.103,1,0.0983,1,0.598
+"Amino acid conjugation of benzoic acid",10,0.103,1,0.0983,1,0.598
+"GABA receptor signaling",10,0.103,1,0.0983,1,0.598
+"Modulation of PI3K-Akt-mTOR signaling by bioactive sphingolipids",10,0.103,1,0.0983,1,0.598
+"Farnesyl to CoQ10 metabolism",10,0.103,1,0.0983,1,0.598
+"G alpha (i) signalling events",108,1.11,3,0.0983,1,0.598
+"Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB",11,0.113,1,0.108,1,0.639
+"Regulation of cholesterol biosynthesis by SREBP (SREBF)",11,0.113,1,0.108,1,0.639
+"Keratinization",11,0.113,1,0.108,1,0.639
+"Formation of the cornified envelope",11,0.113,1,0.108,1,0.639
+"Mitochondrial iron-sulfur cluster biogenesis",11,0.113,1,0.108,1,0.639
+"The retinoid cycle in cones (daylight vision)",11,0.113,1,0.108,1,0.639
+"Transcriptional regulation of white adipocyte differentiation",11,0.113,1,0.108,1,0.639
+"Plasmalogen biosynthesis",11,0.113,1,0.108,1,0.639
+"Platelet degranulation",11,0.113,1,0.108,1,0.639
+"Heroin Action Pathway",11,0.113,1,0.108,1,0.639
+"NAD metabolism in oncogene-induced senescence and mitochondrial dysfunction-associated senescence",11,0.113,1,0.108,1,0.639
+"Sebaleic acid formation and metabolism",11,0.113,1,0.108,1,0.639
+"Response to elevated platelet cytosolic Ca ions",11,0.113,1,0.108,1,0.639
+"Biosynthesis of DHA-derived SPMs",55,0.565,2,0.109,1,0.646
+"Taurine and Hypotaurine Metabolism",12,0.123,1,0.117,1,0.682
+"Mitochondrial Uncoupling",12,0.123,1,0.117,1,0.682
+"Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion",12,0.123,1,0.117,1,0.682
+"Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA",12,0.123,1,0.117,1,0.682
+"Serotonin clearance from the synaptic cleft",12,0.123,1,0.117,1,0.682
+"Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA",12,0.123,1,0.117,1,0.682
+"Thyroid hormone synthesis",12,0.123,1,0.117,1,0.682
+"Disorders in ketone body synthesis",12,0.123,1,0.117,1,0.682
+"Thyroxine (thyroid hormone) production",12,0.123,1,0.117,1,0.682
+"Peroxisomal lipid metabolism",59,0.606,2,0.122,1,0.713
+"Acyl chain remodelling of PE",13,0.134,1,0.126,1,0.721
+"Response to elevated platelet cytosolic Ca2+",13,0.134,1,0.126,1,0.721
+"Adrenoleukodystrophy, X-linked",13,0.134,1,0.126,1,0.721
+"Carnitine-acylcarnitine translocase deficiency",13,0.134,1,0.126,1,0.721
+"Lipid metabolism pathway",13,0.134,1,0.126,1,0.721
+"Folate-alcohol and cancer pathway hypotheses",13,0.134,1,0.126,1,0.721
+"Pluripotent stem cell differentiation pathway",13,0.134,1,0.126,1,0.721
+"Phosphodiesterases in neuronal function",13,0.134,1,0.126,1,0.721
+"NAD+ metabolism",13,0.134,1,0.126,1,0.721
+"Vitamin K metabolism and activation of dependent proteins",13,0.134,1,0.126,1,0.721
+"Innate Immune System",124,1.27,3,0.134,1,0.761
+"Circadian Clock",14,0.144,1,0.135,1,0.761
+"Organic anion transporters",14,0.144,1,0.135,1,0.761
+"Desipramine Action Pathway",14,0.144,1,0.135,1,0.761
+"Methadone Action Pathway",14,0.144,1,0.135,1,0.761
+"Morphine Action Pathway",14,0.144,1,0.135,1,0.761
+"Degradation pathway of sphingolipids, including diseases",14,0.144,1,0.135,1,0.761
+"Disturbed pathways in Duchenne Muscular Dystrophy",14,0.144,1,0.135,1,0.761
+"Regulation of Wnt / B-catenin signaling by small molecule compounds",14,0.144,1,0.135,1,0.761
+"Visual phototransduction",64,0.658,2,0.14,1,0.787
+"Scavenging by Class B Receptors",15,0.154,1,0.144,1,0.801
+"Transcriptional activation of mitochondrial biogenesis",15,0.154,1,0.144,1,0.801
+"Fluoxetine Action Pathway",15,0.154,1,0.144,1,0.801
+"Vitamin D-sensitive calcium signaling in depression",15,0.154,1,0.144,1,0.801
+"GPR143 in melanocytes and retinal pigment epithelium cells",15,0.154,1,0.144,1,0.801
+"Vitamin B12 disorders",15,0.154,1,0.144,1,0.801
+"Biosynthesis of unsaturated fatty acids",16,0.164,1,0.153,1,0.836
+"GABA synthesis, release, reuptake and degradation",16,0.164,1,0.153,1,0.836
+"Carnitine synthesis",16,0.164,1,0.153,1,0.836
+"Regulation of TLR by endogenous ligand",16,0.164,1,0.153,1,0.836
+"Mitochondrial biogenesis",16,0.164,1,0.153,1,0.836
+"Amino Acid conjugation",16,0.164,1,0.153,1,0.836
+"Conjugation of carboxylic acids",16,0.164,1,0.153,1,0.836
+"Threonine and 2-Oxobutanoate Degradation",16,0.164,1,0.153,1,0.836
+"Imipramine Action Pathway",16,0.164,1,0.153,1,0.836
+"Biosynthesis and turnover of 1-deoxy-sphingoid bases",16,0.164,1,0.153,1,0.836
+"Glycerolipid Metabolism",17,0.175,1,0.161,1,0.866
+"Digestion of dietary lipid",17,0.175,1,0.161,1,0.866
+"Free fatty acids regulate insulin secretion",17,0.175,1,0.161,1,0.866
+"PPARA activates gene expression",17,0.175,1,0.161,1,0.866
+"Regulation of lipid metabolism by PPARalpha",17,0.175,1,0.161,1,0.866
+"Wax and plasmalogen biosynthesis",17,0.175,1,0.161,1,0.866
+"Aromatic L-Aminoacid Decarboxylase Deficiency",17,0.175,1,0.161,1,0.866
+"Tyrosine hydroxylase deficiency",17,0.175,1,0.161,1,0.866
+"Codeine Action Pathway",17,0.175,1,0.161,1,0.866
+"D-glyceric acidura",17,0.175,1,0.161,1,0.866
+"Familial lipoprotein lipase deficiency",17,0.175,1,0.161,1,0.866
+"Glycerol Kinase Deficiency",17,0.175,1,0.161,1,0.866
+"RAS and bradykinin pathways in COVID-19",17,0.175,1,0.161,1,0.866
+"Synthesis of bile acids and bile salts",71,0.73,2,0.165,1,0.883
+"Bile acid and bile salt metabolism",72,0.74,2,0.169,1,0.901
+"Methionine salvage pathway",18,0.185,1,0.17,1,0.901
+"Triglyceride catabolism",18,0.185,1,0.17,1,0.901
+"Heme signaling",18,0.185,1,0.17,1,0.901
+"Catecholamine biosynthesis",18,0.185,1,0.17,1,0.901
+"Glycolysis and gluconeogenesis",18,0.185,1,0.17,1,0.901
+"Immunoregulatory interactions between lymphoid and non-lymphoid cells",18,0.185,1,0.17,1,0.901
+"Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell",19,0.195,1,0.179,1,0.94
+"Melatonin metabolism and effects",19,0.195,1,0.179,1,0.94
+"Orexin receptor pathway",19,0.195,1,0.179,1,0.94
+"Hemesynthesis defects and porphyrias",19,0.195,1,0.179,1,0.94
+"Selenocysteine synthesis",20,0.206,1,0.187,1,0.975
+"Synthesis of UDP-N-acetyl-glucosamine",20,0.206,1,0.187,1,0.975
+"Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids",20,0.206,1,0.187,1,0.975
+"Lidocaine (Local Anaesthetic) Action Pathway",20,0.206,1,0.187,1,0.975
+"Kennedy pathway from sphingolipids",20,0.206,1,0.187,1,0.975
+"Mitochondrial fatty acid oxidation disorders",20,0.206,1,0.187,1,0.975
+"Phase II - Conjugation of compounds",146,1.5,3,0.188,1,0.981
+"Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane",21,0.216,1,0.195,1,1
+"Beta-mercaptolactate-cysteine disulfiduria",21,0.216,1,0.195,1,1
+"Cysteine Metabolism",21,0.216,1,0.195,1,1
+"Cystinosis, ocular nonnephropathic",21,0.216,1,0.195,1,1
+"Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids",21,0.216,1,0.195,1,1
+"Cannabinoid receptor signaling",21,0.216,1,0.195,1,1
+"Hereditary leiomyomatosis and renal cell carcinoma pathway",21,0.216,1,0.195,1,1
+"One carbon pool by folate",22,0.226,1,0.204,1,1
+"Inactivation, recovery and regulation of the phototransduction cascade",22,0.226,1,0.204,1,1
+"Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",22,0.226,1,0.204,1,1
+"Citalopram Action Pathway",22,0.226,1,0.204,1,1
+"Folate malabsorption, hereditary",22,0.226,1,0.204,1,1
+"Lactate shuttle in glial cells",22,0.226,1,0.204,1,1
+"Thiamine metabolic pathways",22,0.226,1,0.204,1,1
+"HS-GAG degradation",23,0.236,1,0.212,1,1
+"RAS processing",23,0.236,1,0.212,1,1
+"Cobalamin (Cbl) metabolism",23,0.236,1,0.212,1,1
+"Methotrexate Action Pathway",23,0.236,1,0.212,1,1
+"Regucalcin in proximal tubule epithelial kidney cells",23,0.236,1,0.212,1,1
+"TCA cycle (aka Krebs or citric acid cycle)",23,0.236,1,0.212,1,1
+"Metabolism of steroids",157,1.61,3,0.218,1,1
+"Melanin biosynthesis",24,0.247,1,0.22,1,1
+"Synthesis of wybutosine at G37 of tRNA(Phe)",24,0.247,1,0.22,1,1
+"Organelle biogenesis and maintenance",24,0.247,1,0.22,1,1
+"Phospholipid Biosynthesis",25,0.257,1,0.228,1,1
+"Cytoprotection by HMOX1",25,0.257,1,0.228,1,1
+"TP53 Regulates Metabolic Genes",25,0.257,1,0.228,1,1
+"G(M2)-Gangliosidosis: Variant B, Tay-sachs disease",25,0.257,1,0.228,1,1
+"Salla Disease/Infantile Sialic Acid Storage Disease",25,0.257,1,0.228,1,1
+"Sialuria or French Type Sialuria",25,0.257,1,0.228,1,1
+"Tay-Sachs Disease",25,0.257,1,0.228,1,1
+"G alpha (s) signaling events",25,0.257,1,0.228,1,1
+"Thermogenesis",25,0.257,1,0.228,1,1
+"Cori cycle",25,0.257,1,0.228,1,1
+"Citric Acid Cycle",26,0.267,1,0.236,1,1
+"Synthesis of very long-chain fatty acyl-CoAs",26,0.267,1,0.236,1,1
+"The phototransduction cascade",26,0.267,1,0.236,1,1
+"2-ketoglutarate dehydrogenase complex deficiency",26,0.267,1,0.236,1,1
+"Congenital lactic acidosis",26,0.267,1,0.236,1,1
+"Fumarase deficiency",26,0.267,1,0.236,1,1
+"Mitochondrial complex II deficiency",26,0.267,1,0.236,1,1
+"Pyruvate dehydrogenase deficiency (E2)",26,0.267,1,0.236,1,1
+"Pyruvate dehydrogenase deficiency (E3)",26,0.267,1,0.236,1,1
+"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation",27,0.278,1,0.244,1,1
+"Sphingolipid metabolism overview",27,0.278,1,0.244,1,1
+"Nicotinate and nicotinamide metabolism",28,0.288,1,0.252,1,1
+"Triglyceride metabolism",28,0.288,1,0.252,1,1
+"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.",28,0.288,1,0.252,1,1
+"Cobalamin (Cbl, vitamin B12) transport and metabolism",28,0.288,1,0.252,1,1
+"Nicotine Action Pathway",28,0.288,1,0.252,1,1
+"2q37 copy number variation syndrome",28,0.288,1,0.252,1,1
+"Metabolism of Angiotensinogen to Angiotensins",29,0.298,1,0.26,1,1
+"Enterocyte cholesterol metabolism",29,0.298,1,0.26,1,1
+"G alpha (s) signalling events",30,0.308,1,0.267,1,1
+"Scavenging by Class A Receptors",30,0.308,1,0.267,1,1
+"The canonical retinoid cycle in rods (twilight vision)",30,0.308,1,0.267,1,1
+"Gamma carboxylation, hypusine formation and arylsulfatase activation",31,0.319,1,0.275,1,1
+"Neurotransmitter clearance",32,0.329,1,0.282,1,1
+"Platelet activation, signaling and aggregation",32,0.329,1,0.282,1,1
+"Heme biosynthesis",32,0.329,1,0.282,1,1
+"The Oncogenic Action of Fumarate",32,0.329,1,0.282,1,1
+"The Oncogenic Action of Succinate",32,0.329,1,0.282,1,1
+"Cholesterol metabolism",32,0.329,1,0.282,1,1
+"Heparan sulfate/heparin (HS-GAG) metabolism",33,0.339,1,0.29,1,1
+"Retinoid metabolism and transport",33,0.339,1,0.29,1,1
+"Dopamine metabolism",33,0.339,1,0.29,1,1
+"Azathioprine ADME",34,0.349,1,0.297,1,1
+"Amino Sugar Metabolism",35,0.36,1,0.304,1,1
+"Aspirin ADME",35,0.36,1,0.304,1,1
+"Glycosphingolipid metabolism",35,0.36,1,0.304,1,1
+"Fatty acid beta-oxidation",35,0.36,1,0.304,1,1
+"Porphyrin Metabolism",36,0.37,1,0.312,1,1
+"Methylation",36,0.37,1,0.312,1,1
+"Toll-like Receptor Cascades",36,0.37,1,0.312,1,1
+"Acute Intermittent Porphyria",36,0.37,1,0.312,1,1
+"Congenital Erythropoietic Porphyria (CEP) or Gunther Disease",36,0.37,1,0.312,1,1
+"Hereditary Coproporphyria (HCP)",36,0.37,1,0.312,1,1
+"Porphyria Variegata (PV)",36,0.37,1,0.312,1,1
+"Drug ADME",110,1.13,2,0.313,1,1
+"Regulation of insulin secretion",37,0.38,1,0.319,1,1
+"Biosynthesis of specialized proresolving mediators (SPMs)",114,1.17,2,0.328,1,1
+"Pyrimidine catabolism",39,0.401,1,0.333,1,1
+"Transcriptional Regulation by TP53",39,0.401,1,0.333,1,1
+"Binding and Uptake of Ligands by Scavenger Receptors",39,0.401,1,0.333,1,1
+"mitochondrial fatty acid beta-oxidation of saturated fatty acids",39,0.401,1,0.333,1,1
+"Fatty acyl-CoA biosynthesis",41,0.421,1,0.347,1,1
+"Disorders of bile acid synthesis and biliary transport",41,0.421,1,0.347,1,1
+"Cerivastatin Action Pathway",42,0.432,1,0.353,1,1
+"Cholesteryl ester storage disease",42,0.432,1,0.353,1,1
+"Desmosterolosis",42,0.432,1,0.353,1,1
+"Hyper-IgD syndrome",42,0.432,1,0.353,1,1
+"Hypercholesterolemia",42,0.432,1,0.353,1,1
+"Lysosomal Acid Lipase Deficiency (Wolman Disease)",42,0.432,1,0.353,1,1
+"Mevalonic aciduria",42,0.432,1,0.353,1,1
+"Smith-Lemli-Opitz Syndrome (SLOS)",42,0.432,1,0.353,1,1
+"Wolman disease",42,0.432,1,0.353,1,1
+"Steroid Biosynthesis",43,0.442,1,0.36,1,1
+"Metabolism of fat-soluble vitamins",43,0.442,1,0.36,1,1
+"Digestion",43,0.442,1,0.36,1,1
+"Alendronate Action Pathway",43,0.442,1,0.36,1,1
+"Atorvastatin Action Pathway",43,0.442,1,0.36,1,1
+"Ibandronate Action Pathway",43,0.442,1,0.36,1,1
+"Lovastatin Action Pathway",43,0.442,1,0.36,1,1
+"Pamidronate Action Pathway",43,0.442,1,0.36,1,1
+"Pravastatin Action Pathway",43,0.442,1,0.36,1,1
+"Risedronate Action Pathway",43,0.442,1,0.36,1,1
+"Rosuvastatin Action Pathway",43,0.442,1,0.36,1,1
+"Simvastatin Action Pathway",43,0.442,1,0.36,1,1
+"Zoledronate Action Pathway",43,0.442,1,0.36,1,1
+"Cellular response to chemical stress",44,0.452,1,0.367,1,1
+"Fluvastatin Action Pathway",44,0.452,1,0.367,1,1
+"Cholesterol metabolism with Bloch and Kandutsch-Russell pathways",44,0.452,1,0.367,1,1
+"Digestion and absorption",45,0.463,1,0.373,1,1
+"Integration of energy metabolism",45,0.463,1,0.373,1,1
+"Metabolism of porphyrins",45,0.463,1,0.373,1,1
+"Metabolism of cofactors",47,0.483,1,0.386,1,1
+"Warburg Effect",47,0.483,1,0.386,1,1
+"Interconversion of nucleotide di- and triphosphates",49,0.504,1,0.399,1,1
+"Adaptive Immune System",53,0.545,1,0.424,1,1
+"Glycerophospholipid biosynthetic pathway",54,0.555,1,0.43,1,1
+"Nicotinate metabolism",56,0.576,1,0.441,1,1
+"Metabolism of carbohydrates",146,1.5,2,0.446,1,1
+"Generic Transcription Pathway",58,0.596,1,0.453,1,1
+"Glycosaminoglycan metabolism",58,0.596,1,0.453,1,1
+"The citric acid (TCA) cycle and respiratory electron transport",58,0.596,1,0.453,1,1
+"Leukotriene C4 Synthesis Deficiency",60,0.617,1,0.464,1,1
+"Rofecoxib Action Pathway",60,0.617,1,0.464,1,1
+"Salicylate-sodium Action Pathway",60,0.617,1,0.464,1,1
+"Trisalicylate-choline Action Pathway",60,0.617,1,0.464,1,1
+"Acetaminophen  Action Pathway",61,0.627,1,0.47,1,1
+"Acetylsalicylic Acid Action Pathway",61,0.627,1,0.47,1,1
+"Antipyrine Action Pathway",61,0.627,1,0.47,1,1
+"Antrafenine Action Pathway",61,0.627,1,0.47,1,1
+"Bromfenac Action Pathway",61,0.627,1,0.47,1,1
+"Carprofen Action Pathway",61,0.627,1,0.47,1,1
+"Diflunisal Action Pathway",61,0.627,1,0.47,1,1
+"Etodolac Action Pathway",61,0.627,1,0.47,1,1
+"Etoricoxib Action Pathway",61,0.627,1,0.47,1,1
+"Fenoprofen Action Pathway",61,0.627,1,0.47,1,1
+"Flurbiprofen Action Pathway",61,0.627,1,0.47,1,1
+"Indomethacin Action Pathway",61,0.627,1,0.47,1,1
+"Ketoprofen Action Pathway",61,0.627,1,0.47,1,1
+"Ketorolac Action Pathway",61,0.627,1,0.47,1,1
+"Lornoxicam Action Pathway",61,0.627,1,0.47,1,1
+"Lumiracoxib Action Pathway",61,0.627,1,0.47,1,1
+"Magnesium salicylate Action Pathway",61,0.627,1,0.47,1,1
+"Mefenamic Acid Action Pathway",61,0.627,1,0.47,1,1
+"Meloxicam Action Pathway",61,0.627,1,0.47,1,1
+"Nabumetone Action Pathway",61,0.627,1,0.47,1,1
+"Nepafenac Action Pathway",61,0.627,1,0.47,1,1
+"Oxaprozin Action Pathway",61,0.627,1,0.47,1,1
+"Phenylbutazone Action Pathway",61,0.627,1,0.47,1,1
+"Salicylic Acid Action Pathway",61,0.627,1,0.47,1,1
+"Salsalate Action Pathway",61,0.627,1,0.47,1,1
+"Sulindac Action Pathway",61,0.627,1,0.47,1,1
+"Suprofen Action Pathway",61,0.627,1,0.47,1,1
+"Tenoxicam Action Pathway",61,0.627,1,0.47,1,1
+"Tiaprofenic Acid Action Pathway",61,0.627,1,0.47,1,1
+"Tolmetin Action Pathway",61,0.627,1,0.47,1,1
+"Valdecoxib Action Pathway",61,0.627,1,0.47,1,1
+"Diclofenac Action Pathway",62,0.637,1,0.475,1,1
+"Naproxen Action Pathway",62,0.637,1,0.475,1,1
+"Piroxicam Action Pathway",62,0.637,1,0.475,1,1
+"Arachidonic Acid Metabolism",63,0.648,1,0.481,1,1
+"Vesicle-mediated transport",63,0.648,1,0.481,1,1
+"Mitochondrial Fatty Acid Beta-Oxidation",63,0.648,1,0.481,1,1
+"Synthesis of substrates in N-glycan biosythesis",64,0.658,1,0.486,1,1
+"Amine ligand-binding receptors",65,0.668,1,0.492,1,1
+"RNA Polymerase II Transcription",66,0.678,1,0.497,1,1
+"Celecoxib Action Pathway",66,0.678,1,0.497,1,1
+"Ibuprofen Action Pathway",69,0.709,1,0.513,1,1
+"tRNA modification in the nucleus and cytosol",77,0.791,1,0.552,1,1
+"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein",77,0.791,1,0.552,1,1
+"Gene expression (Transcription)",79,0.812,1,0.561,1,1
+"tRNA processing",84,0.863,1,0.584,1,1
+"Infectious disease",195,2,2,0.603,1,1
+"Nucleobase catabolism",101,1.04,1,0.652,1,1
+"Nucleotide catabolism",104,1.07,1,0.663,1,1
+"Metabolism of RNA",106,1.09,1,0.67,1,1
+"Asparagine N-linked glycosylation",109,1.12,1,0.68,1,1

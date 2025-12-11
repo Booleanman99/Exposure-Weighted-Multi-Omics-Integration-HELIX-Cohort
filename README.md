@@ -1,2 +1,15 @@
-# Exposure-Weighted-Multi-Omics-Integration-HELIX-Cohort
-Biologically informed framework integrating environmental exposures with effect-weighted multi-omics scores for pediatric metabolic risk stratification using the HELIX cohort. Implements LASSO, XGBoost, and Random Forest classifiers with SHAP interpretability and pathway enrichment validation across five omics layers.
+# Exposure-Weighted Multi-Omics Integration for Pediatric Metabolic Risk Profiling: An Exploratory Study in the HELIX Cohort
+
+This repository contains the project for the PM-606 class.
+
+## Contents
+
+- `FINAl/`: Directory containing final project files.
+- `ipynb PDFs/`: Directory containing PDF versions of Jupyter notebooks.
+- `Pathway Enrichment/`: Directory related to pathway enrichment analysis.
+- `Pipeline/`: Directory containing the project's data processing pipeline.
+- `Reports/`: Directory for project reports.
+- `FINAL.ipynb`: The final Jupyter notebook for the project.
+- `Maitre_HELIX_study_2018 (1).pdf`: A related research paper.
+- `prof advice 7 august.pdf`: Document with professor's advice.
+- `project_structure.txt`: A text file describing the project structure.

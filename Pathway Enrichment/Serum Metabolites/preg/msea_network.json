@@ -1,0 +1,3574 @@
+{
+ "nodes": [
+ {
+ "id": "Amino acid transport across the plasma membrane",
+"label": "Amino acid transport across the plasma membrane",
+"size": 57.71125,
+"color": "#FF0000",
+"x": 1.607367,
+"y": -3.666889 
+},
+{
+ "id": "Amino acid transport defects (IEMs)",
+"label": "Amino acid transport defects (IEMs)",
+"size": 64.15108,
+"color": "#FF0700",
+"x": 2.098395,
+"y": -3.429544 
+},
+{
+ "id": "Transcription/Translation",
+"label": "Transcription/Translation",
+"size": 65.25681,
+"color": "#FF0E00",
+"x": 2.309029,
+"y": -3.018107 
+},
+{
+ "id": "Na+/Cl- dependent neurotransmitter transporters",
+"label": "Na+/Cl- dependent neurotransmitter transporters",
+"size": 54.67173,
+"color": "#FF1500",
+"x": 1.267841,
+"y": -3.651482 
+},
+{
+ "id": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"label": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"size": 38.58052,
+"color": "#FF1C00",
+"x": 2.262222,
+"y": -5.200009 
+},
+{
+ "id": "Amino acid metabolism",
+"label": "Amino acid metabolism",
+"size": 23.53571,
+"color": "#FF2200",
+"x": -0.02716171,
+"y": 3.394019 
+},
+{
+ "id": "SLC-mediated transmembrane transport",
+"label": "SLC-mediated transmembrane transport",
+"size": 18.72327,
+"color": "#FF2900",
+"x":  2.12017,
+"y": -7.168989 
+},
+{
+ "id": "Transport of bile salts and organic acids, metal ions and amine compounds",
+"label": "Transport of bile salts and organic acids, metal ions and amine compounds",
+"size": 28.60819,
+"color": "#FF3000",
+"x": 2.006309,
+"y": -5.804564 
+},
+{
+ "id": "Transport of small molecules",
+"label": "Transport of small molecules",
+"size": 14.68224,
+"color": "#FF3700",
+"x": 3.150014,
+"y": -6.925167 
+},
+{
+ "id": "Cytosolic tRNA aminoacylation",
+"label": "Cytosolic tRNA aminoacylation",
+"size": 28.07375,
+"color": "#FF3E00",
+"x": 4.378872,
+"y": -3.922721 
+},
+{
+ "id": "tRNA Aminoacylation",
+"label": "tRNA Aminoacylation",
+"size": 28.07375,
+"color": "#FF4500",
+"x": 4.412058,
+"y": -3.404352 
+},
+{
+ "id": "Mitochondrial tRNA aminoacylation",
+"label": "Mitochondrial tRNA aminoacylation",
+"size": 28.07375,
+"color": "#FF4C00",
+"x": 4.431563,
+"y": -2.808976 
+},
+{
+ "id": "Metabolism of amino acids and derivatives",
+"label": "Metabolism of amino acids and derivatives",
+"size": 11.93471,
+"color": "#FF5300",
+"x": 3.640944,
+"y": 3.431634 
+},
+{
+ "id": "Variant SLC6A14 may confer susceptibility towards obesity",
+"label": "Variant SLC6A14 may confer susceptibility towards obesity",
+"size": 74.42857,
+"color": "#FF5A00",
+"x": 1.721576,
+"y": -3.316901 
+},
+{
+ "id": "SLC transporter disorders",
+"label": "SLC transporter disorders",
+"size": 23.68127,
+"color": "#FF6000",
+"x": 2.641994,
+"y": -5.903976 
+},
+{
+ "id": "Translation",
+"label": "Translation",
+"size": 22.92966,
+"color": "#FF6700",
+"x": 5.195138,
+"y": -3.159172 
+},
+{
+ "id": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"label": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"size": 77.62687,
+"color": "#FF6E00",
+"x": 1.444804,
+"y": -3.430147 
+},
+{
+ "id": "Disorders of transmembrane transporters",
+"label": "Disorders of transmembrane transporters",
+"size": 19.83168,
+"color": "#FF7500",
+"x": 2.666676,
+"y": -7.152365 
+},
+{
+ "id": "Glucose homeostasis",
+"label": "Glucose homeostasis",
+"size":  49.2963,
+"color": "#FF7C00",
+"x": 8.662868,
+"y": -2.97818 
+},
+{
+ "id": "Biochemical pathways: part I",
+"label": "Biochemical pathways: part I",
+"size": 8.689278,
+"color": "#FF8300",
+"x": 6.150303,
+"y": 2.141556 
+},
+{
+ "id": "Tryptophan catabolism",
+"label": "Tryptophan catabolism",
+"size": 35.44838,
+"color": "#FF8A00",
+"x": 7.867926,
+"y": 0.07049067 
+},
+{
+ "id": "Amikacin Action Pathway",
+"label": "Amikacin Action Pathway",
+"size": 54.42857,
+"color": "#FF9100",
+"x": 0.669365,
+"y": -3.275399 
+},
+{
+ "id": "Arbekacin Action Pathway",
+"label": "Arbekacin Action Pathway",
+"size": 54.42857,
+"color": "#FF9800",
+"x": 0.505175,
+"y": -2.771312 
+},
+{
+ "id": "Azithromycin Action Pathway",
+"label": "Azithromycin Action Pathway",
+"size": 54.42857,
+"color": "#FF9F00",
+"x": 1.200987,
+"y": -3.262087 
+},
+{
+ "id": "Chloramphenicol Action Pathway",
+"label": "Chloramphenicol Action Pathway",
+"size": 54.42857,
+"color": "#FFA500",
+"x": 0.7948217,
+"y": -2.583933 
+},
+{
+ "id": "Clarithromycin Action Pathway",
+"label": "Clarithromycin Action Pathway",
+"size": 54.42857,
+"color": "#FFAC00",
+"x": 1.602433,
+"y": -2.368262 
+},
+{
+ "id": "Clindamycin Action Pathway",
+"label": "Clindamycin Action Pathway",
+"size": 54.42857,
+"color": "#FFB300",
+"x":  1.01884,
+"y": -2.376816 
+},
+{
+ "id": "Clomocycline Action Pathway",
+"label": "Clomocycline Action Pathway",
+"size": 54.42857,
+"color": "#FFBA00",
+"x": 0.5535461,
+"y": -3.048938 
+},
+{
+ "id": "Demeclocycline Action Pathway",
+"label": "Demeclocycline Action Pathway",
+"size": 54.42857,
+"color": "#FFC100",
+"x": 1.272847,
+"y": -2.932812 
+},
+{
+ "id": "Doxycycline Action Pathway",
+"label": "Doxycycline Action Pathway",
+"size": 54.42857,
+"color": "#FFC800",
+"x": 1.316384,
+"y": -1.982525 
+},
+{
+ "id": "Erythromycin Action Pathway",
+"label": "Erythromycin Action Pathway",
+"size": 54.42857,
+"color": "#FFCF00",
+"x": 1.266789,
+"y": -2.47403 
+},
+{
+ "id": "Gentamicin Action Pathway",
+"label": "Gentamicin Action Pathway",
+"size": 54.42857,
+"color": "#FFD600",
+"x": 1.943999,
+"y": -2.400516 
+},
+{
+ "id": "Josamycin Action Pathway",
+"label": "Josamycin Action Pathway",
+"size": 54.42857,
+"color": "#FFDD00",
+"x": 1.456475,
+"y": -2.687855 
+},
+{
+ "id": "Kanamycin Action Pathway",
+"label": "Kanamycin Action Pathway",
+"size": 54.42857,
+"color": "#FFE300",
+"x": 1.073083,
+"y": -2.040806 
+},
+{
+ "id": "Lincomycin Action Pathway",
+"label": "Lincomycin Action Pathway",
+"size": 54.42857,
+"color": "#FFEA00",
+"x": 1.048985,
+"y": -2.698763 
+},
+{
+ "id": "Lymecycline Action Pathway",
+"label": "Lymecycline Action Pathway",
+"size": 54.42857,
+"color": "#FFF100",
+"x": 1.912119,
+"y": -2.968448 
+},
+{
+ "id": "Methacycline Action Pathway",
+"label": "Methacycline Action Pathway",
+"size": 54.42857,
+"color": "#FFF800",
+"x": 2.009093,
+"y": -2.674854 
+},
+{
+ "id": "Minocycline Action Pathway",
+"label": "Minocycline Action Pathway",
+"size": 54.42857,
+"color": "#FFFF00",
+"x": 0.9802091,
+"y": -2.991122 
+},
+{
+ "id": "Neomycin Action Pathway",
+"label": "Neomycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFF0B",
+"x": 0.9035462,
+"y": -3.239678 
+},
+{
+ "id": "Netilmicin Action Pathway",
+"label": "Netilmicin Action Pathway",
+"size": 54.42857,
+"color": "#FFFF20",
+"x": 1.573217,
+"y": -2.057891 
+},
+{
+ "id": "Oxytetracycline Action Pathway",
+"label": "Oxytetracycline Action Pathway",
+"size": 54.42857,
+"color": "#FFFF35",
+"x": 0.9494491,
+"y": -3.467706 
+},
+{
+ "id": "Paromomycin Action Pathway",
+"label": "Paromomycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFF4A",
+"x": 0.7008456,
+"y": -2.30531 
+},
+{
+ "id": "Rolitetracycline Action Pathway",
+"label": "Rolitetracycline Action Pathway",
+"size": 54.42857,
+"color": "#FFFF60",
+"x": 1.769573,
+"y": -2.596124 
+},
+{
+ "id": "Roxithromycin Action Pathway",
+"label": "Roxithromycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFF75",
+"x": 0.5112802,
+"y": -2.496268 
+},
+{
+ "id": "Spectinomycin Action Pathway",
+"label": "Spectinomycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFF8A",
+"x": 1.686685,
+"y": -2.883861 
+},
+{
+ "id": "Streptomycin Action Pathway",
+"label": "Streptomycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFF9F",
+"x": 1.347564,
+"y": -2.21809 
+},
+{
+ "id": "Telithromycin Action Pathway",
+"label": "Telithromycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFFB5",
+"x": 1.797891,
+"y": -2.198331 
+},
+{
+ "id": "Tetracycline Action Pathway",
+"label": "Tetracycline Action Pathway",
+"size": 54.42857,
+"color": "#FFFFCA",
+"x": 0.8722943,
+"y": -2.146836 
+},
+{
+ "id": "Tigecycline Action Pathway",
+"label": "Tigecycline Action Pathway",
+"size": 54.42857,
+"color": "#FFFFDF",
+"x":   1.5032,
+"y": -3.107644 
+},
+{
+ "id": "Tobramycin Action Pathway",
+"label": "Tobramycin Action Pathway",
+"size": 54.42857,
+"color": "#FFFFF4",
+"x": 0.7319293,
+"y": -2.859378 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Amino acid transport defects (IEMs)" 
+},
+{
+ "id": "2",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Transcription/Translation" 
+},
+{
+ "id": "3",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Transcription/Translation" 
+},
+{
+ "id": "4",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Na+/Cl- dependent neurotransmitter transporters" 
+},
+{
+ "id": "5",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Na+/Cl- dependent neurotransmitter transporters" 
+},
+{
+ "id": "6",
+"source": "Transcription/Translation",
+"target": "Na+/Cl- dependent neurotransmitter transporters" 
+},
+{
+ "id": "7",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Transport of inorganic cations/anions and amino acids/oligopeptides" 
+},
+{
+ "id": "8",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Transport of inorganic cations/anions and amino acids/oligopeptides" 
+},
+{
+ "id": "9",
+"source": "Transcription/Translation",
+"target": "Transport of inorganic cations/anions and amino acids/oligopeptides" 
+},
+{
+ "id": "10",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Transport of inorganic cations/anions and amino acids/oligopeptides" 
+},
+{
+ "id": "11",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "SLC-mediated transmembrane transport" 
+},
+{
+ "id": "12",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Transport of bile salts and organic acids, metal ions and amine compounds" 
+},
+{
+ "id": "13",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Transport of bile salts and organic acids, metal ions and amine compounds" 
+},
+{
+ "id": "14",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Transport of bile salts and organic acids, metal ions and amine compounds" 
+},
+{
+ "id": "15",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "Transport of bile salts and organic acids, metal ions and amine compounds" 
+},
+{
+ "id": "16",
+"source": "SLC-mediated transmembrane transport",
+"target": "Transport of bile salts and organic acids, metal ions and amine compounds" 
+},
+{
+ "id": "17",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "Transport of small molecules" 
+},
+{
+ "id": "18",
+"source": "SLC-mediated transmembrane transport",
+"target": "Transport of small molecules" 
+},
+{
+ "id": "19",
+"source": "Transport of bile salts and organic acids, metal ions and amine compounds",
+"target": "Transport of small molecules" 
+},
+{
+ "id": "20",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Cytosolic tRNA aminoacylation" 
+},
+{
+ "id": "21",
+"source": "Transcription/Translation",
+"target": "Cytosolic tRNA aminoacylation" 
+},
+{
+ "id": "22",
+"source": "Amino acid transport defects (IEMs)",
+"target": "tRNA Aminoacylation" 
+},
+{
+ "id": "23",
+"source": "Transcription/Translation",
+"target": "tRNA Aminoacylation" 
+},
+{
+ "id": "24",
+"source": "Cytosolic tRNA aminoacylation",
+"target": "tRNA Aminoacylation" 
+},
+{
+ "id": "25",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Mitochondrial tRNA aminoacylation" 
+},
+{
+ "id": "26",
+"source": "Transcription/Translation",
+"target": "Mitochondrial tRNA aminoacylation" 
+},
+{
+ "id": "27",
+"source": "Cytosolic tRNA aminoacylation",
+"target": "Mitochondrial tRNA aminoacylation" 
+},
+{
+ "id": "28",
+"source": "tRNA Aminoacylation",
+"target": "Mitochondrial tRNA aminoacylation" 
+},
+{
+ "id": "29",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Variant SLC6A14 may confer susceptibility towards obesity" 
+},
+{
+ "id": "30",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Variant SLC6A14 may confer susceptibility towards obesity" 
+},
+{
+ "id": "31",
+"source": "Transcription/Translation",
+"target": "Variant SLC6A14 may confer susceptibility towards obesity" 
+},
+{
+ "id": "32",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Variant SLC6A14 may confer susceptibility towards obesity" 
+},
+{
+ "id": "33",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "Variant SLC6A14 may confer susceptibility towards obesity" 
+},
+{
+ "id": "34",
+"source": "Amino acid transport across the plasma membrane",
+"target": "SLC transporter disorders" 
+},
+{
+ "id": "35",
+"source": "Amino acid transport defects (IEMs)",
+"target": "SLC transporter disorders" 
+},
+{
+ "id": "36",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "SLC transporter disorders" 
+},
+{
+ "id": "37",
+"source": "SLC-mediated transmembrane transport",
+"target": "SLC transporter disorders" 
+},
+{
+ "id": "38",
+"source": "Transport of bile salts and organic acids, metal ions and amine compounds",
+"target": "SLC transporter disorders" 
+},
+{
+ "id": "39",
+"source": "Transport of small molecules",
+"target": "SLC transporter disorders" 
+},
+{
+ "id": "40",
+"source": "Transcription/Translation",
+"target": "Translation" 
+},
+{
+ "id": "41",
+"source": "Cytosolic tRNA aminoacylation",
+"target": "Translation" 
+},
+{
+ "id": "42",
+"source": "tRNA Aminoacylation",
+"target": "Translation" 
+},
+{
+ "id": "43",
+"source": "Mitochondrial tRNA aminoacylation",
+"target": "Translation" 
+},
+{
+ "id": "44",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Defective SLC6A19 causes Hartnup disorder (HND)" 
+},
+{
+ "id": "45",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Defective SLC6A19 causes Hartnup disorder (HND)" 
+},
+{
+ "id": "46",
+"source": "Transcription/Translation",
+"target": "Defective SLC6A19 causes Hartnup disorder (HND)" 
+},
+{
+ "id": "47",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Defective SLC6A19 causes Hartnup disorder (HND)" 
+},
+{
+ "id": "48",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "Defective SLC6A19 causes Hartnup disorder (HND)" 
+},
+{
+ "id": "49",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Defective SLC6A19 causes Hartnup disorder (HND)" 
+},
+{
+ "id": "50",
+"source": "Transport of inorganic cations/anions and amino acids/oligopeptides",
+"target": "Disorders of transmembrane transporters" 
+},
+{
+ "id": "51",
+"source": "SLC-mediated transmembrane transport",
+"target": "Disorders of transmembrane transporters" 
+},
+{
+ "id": "52",
+"source": "Transport of bile salts and organic acids, metal ions and amine compounds",
+"target": "Disorders of transmembrane transporters" 
+},
+{
+ "id": "53",
+"source": "Transport of small molecules",
+"target": "Disorders of transmembrane transporters" 
+},
+{
+ "id": "54",
+"source": "SLC transporter disorders",
+"target": "Disorders of transmembrane transporters" 
+},
+{
+ "id": "55",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Amikacin Action Pathway" 
+},
+{
+ "id": "56",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Amikacin Action Pathway" 
+},
+{
+ "id": "57",
+"source": "Transcription/Translation",
+"target": "Amikacin Action Pathway" 
+},
+{
+ "id": "58",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Amikacin Action Pathway" 
+},
+{
+ "id": "59",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Amikacin Action Pathway" 
+},
+{
+ "id": "60",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Amikacin Action Pathway" 
+},
+{
+ "id": "61",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "62",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "63",
+"source": "Transcription/Translation",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "64",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "65",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "66",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "67",
+"source": "Amikacin Action Pathway",
+"target": "Arbekacin Action Pathway" 
+},
+{
+ "id": "68",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "69",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "70",
+"source": "Transcription/Translation",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "71",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "72",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "73",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "74",
+"source": "Amikacin Action Pathway",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "75",
+"source": "Arbekacin Action Pathway",
+"target": "Azithromycin Action Pathway" 
+},
+{
+ "id": "76",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "77",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "78",
+"source": "Transcription/Translation",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "79",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "80",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "81",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "82",
+"source": "Amikacin Action Pathway",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "83",
+"source": "Arbekacin Action Pathway",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "84",
+"source": "Azithromycin Action Pathway",
+"target": "Chloramphenicol Action Pathway" 
+},
+{
+ "id": "85",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "86",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "87",
+"source": "Transcription/Translation",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "88",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "89",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "90",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "91",
+"source": "Amikacin Action Pathway",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "92",
+"source": "Arbekacin Action Pathway",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "93",
+"source": "Azithromycin Action Pathway",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "94",
+"source": "Chloramphenicol Action Pathway",
+"target": "Clarithromycin Action Pathway" 
+},
+{
+ "id": "95",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "96",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "97",
+"source": "Transcription/Translation",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "98",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "99",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "100",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "101",
+"source": "Amikacin Action Pathway",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "102",
+"source": "Arbekacin Action Pathway",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "103",
+"source": "Azithromycin Action Pathway",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "104",
+"source": "Chloramphenicol Action Pathway",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "105",
+"source": "Clarithromycin Action Pathway",
+"target": "Clindamycin Action Pathway" 
+},
+{
+ "id": "106",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "107",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "108",
+"source": "Transcription/Translation",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "109",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "110",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "111",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "112",
+"source": "Amikacin Action Pathway",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "113",
+"source": "Arbekacin Action Pathway",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "114",
+"source": "Azithromycin Action Pathway",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "115",
+"source": "Chloramphenicol Action Pathway",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "116",
+"source": "Clarithromycin Action Pathway",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "117",
+"source": "Clindamycin Action Pathway",
+"target": "Clomocycline Action Pathway" 
+},
+{
+ "id": "118",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "119",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "120",
+"source": "Transcription/Translation",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "121",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "122",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "123",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "124",
+"source": "Amikacin Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "125",
+"source": "Arbekacin Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "126",
+"source": "Azithromycin Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "127",
+"source": "Chloramphenicol Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "128",
+"source": "Clarithromycin Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "129",
+"source": "Clindamycin Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "130",
+"source": "Clomocycline Action Pathway",
+"target": "Demeclocycline Action Pathway" 
+},
+{
+ "id": "131",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "132",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "133",
+"source": "Transcription/Translation",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "134",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "135",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "136",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "137",
+"source": "Amikacin Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "138",
+"source": "Arbekacin Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "139",
+"source": "Azithromycin Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "140",
+"source": "Chloramphenicol Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "141",
+"source": "Clarithromycin Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "142",
+"source": "Clindamycin Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "143",
+"source": "Clomocycline Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "144",
+"source": "Demeclocycline Action Pathway",
+"target": "Doxycycline Action Pathway" 
+},
+{
+ "id": "145",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "146",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "147",
+"source": "Transcription/Translation",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "148",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "149",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "150",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "151",
+"source": "Amikacin Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "152",
+"source": "Arbekacin Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "153",
+"source": "Azithromycin Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "154",
+"source": "Chloramphenicol Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "155",
+"source": "Clarithromycin Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "156",
+"source": "Clindamycin Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "157",
+"source": "Clomocycline Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "158",
+"source": "Demeclocycline Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "159",
+"source": "Doxycycline Action Pathway",
+"target": "Erythromycin Action Pathway" 
+},
+{
+ "id": "160",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "161",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "162",
+"source": "Transcription/Translation",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "163",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "164",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "165",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "166",
+"source": "Amikacin Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "167",
+"source": "Arbekacin Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "168",
+"source": "Azithromycin Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "169",
+"source": "Chloramphenicol Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "170",
+"source": "Clarithromycin Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "171",
+"source": "Clindamycin Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "172",
+"source": "Clomocycline Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "173",
+"source": "Demeclocycline Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "174",
+"source": "Doxycycline Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "175",
+"source": "Erythromycin Action Pathway",
+"target": "Gentamicin Action Pathway" 
+},
+{
+ "id": "176",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "177",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "178",
+"source": "Transcription/Translation",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "179",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "180",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "181",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "182",
+"source": "Amikacin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "183",
+"source": "Arbekacin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "184",
+"source": "Azithromycin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "185",
+"source": "Chloramphenicol Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "186",
+"source": "Clarithromycin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "187",
+"source": "Clindamycin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "188",
+"source": "Clomocycline Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "189",
+"source": "Demeclocycline Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "190",
+"source": "Doxycycline Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "191",
+"source": "Erythromycin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "192",
+"source": "Gentamicin Action Pathway",
+"target": "Josamycin Action Pathway" 
+},
+{
+ "id": "193",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "194",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "195",
+"source": "Transcription/Translation",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "196",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "197",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "198",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "199",
+"source": "Amikacin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "200",
+"source": "Arbekacin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "201",
+"source": "Azithromycin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "202",
+"source": "Chloramphenicol Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "203",
+"source": "Clarithromycin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "204",
+"source": "Clindamycin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "205",
+"source": "Clomocycline Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "206",
+"source": "Demeclocycline Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "207",
+"source": "Doxycycline Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "208",
+"source": "Erythromycin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "209",
+"source": "Gentamicin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "210",
+"source": "Josamycin Action Pathway",
+"target": "Kanamycin Action Pathway" 
+},
+{
+ "id": "211",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "212",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "213",
+"source": "Transcription/Translation",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "214",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "215",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "216",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "217",
+"source": "Amikacin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "218",
+"source": "Arbekacin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "219",
+"source": "Azithromycin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "220",
+"source": "Chloramphenicol Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "221",
+"source": "Clarithromycin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "222",
+"source": "Clindamycin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "223",
+"source": "Clomocycline Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "224",
+"source": "Demeclocycline Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "225",
+"source": "Doxycycline Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "226",
+"source": "Erythromycin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "227",
+"source": "Gentamicin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "228",
+"source": "Josamycin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "229",
+"source": "Kanamycin Action Pathway",
+"target": "Lincomycin Action Pathway" 
+},
+{
+ "id": "230",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "231",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "232",
+"source": "Transcription/Translation",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "233",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "234",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "235",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "236",
+"source": "Amikacin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "237",
+"source": "Arbekacin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "238",
+"source": "Azithromycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "239",
+"source": "Chloramphenicol Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "240",
+"source": "Clarithromycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "241",
+"source": "Clindamycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "242",
+"source": "Clomocycline Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "243",
+"source": "Demeclocycline Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "244",
+"source": "Doxycycline Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "245",
+"source": "Erythromycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "246",
+"source": "Gentamicin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "247",
+"source": "Josamycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "248",
+"source": "Kanamycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "249",
+"source": "Lincomycin Action Pathway",
+"target": "Lymecycline Action Pathway" 
+},
+{
+ "id": "250",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "251",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "252",
+"source": "Transcription/Translation",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "253",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "254",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "255",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "256",
+"source": "Amikacin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "257",
+"source": "Arbekacin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "258",
+"source": "Azithromycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "259",
+"source": "Chloramphenicol Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "260",
+"source": "Clarithromycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "261",
+"source": "Clindamycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "262",
+"source": "Clomocycline Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "263",
+"source": "Demeclocycline Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "264",
+"source": "Doxycycline Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "265",
+"source": "Erythromycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "266",
+"source": "Gentamicin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "267",
+"source": "Josamycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "268",
+"source": "Kanamycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "269",
+"source": "Lincomycin Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "270",
+"source": "Lymecycline Action Pathway",
+"target": "Methacycline Action Pathway" 
+},
+{
+ "id": "271",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "272",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "273",
+"source": "Transcription/Translation",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "274",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "275",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "276",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "277",
+"source": "Amikacin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "278",
+"source": "Arbekacin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "279",
+"source": "Azithromycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "280",
+"source": "Chloramphenicol Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "281",
+"source": "Clarithromycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "282",
+"source": "Clindamycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "283",
+"source": "Clomocycline Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "284",
+"source": "Demeclocycline Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "285",
+"source": "Doxycycline Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "286",
+"source": "Erythromycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "287",
+"source": "Gentamicin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "288",
+"source": "Josamycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "289",
+"source": "Kanamycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "290",
+"source": "Lincomycin Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "291",
+"source": "Lymecycline Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "292",
+"source": "Methacycline Action Pathway",
+"target": "Minocycline Action Pathway" 
+},
+{
+ "id": "293",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "294",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "295",
+"source": "Transcription/Translation",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "296",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "297",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "298",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "299",
+"source": "Amikacin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "300",
+"source": "Arbekacin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "301",
+"source": "Azithromycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "302",
+"source": "Chloramphenicol Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "303",
+"source": "Clarithromycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "304",
+"source": "Clindamycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "305",
+"source": "Clomocycline Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "306",
+"source": "Demeclocycline Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "307",
+"source": "Doxycycline Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "308",
+"source": "Erythromycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "309",
+"source": "Gentamicin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "310",
+"source": "Josamycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "311",
+"source": "Kanamycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "312",
+"source": "Lincomycin Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "313",
+"source": "Lymecycline Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "314",
+"source": "Methacycline Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "315",
+"source": "Minocycline Action Pathway",
+"target": "Neomycin Action Pathway" 
+},
+{
+ "id": "316",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "317",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "318",
+"source": "Transcription/Translation",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "319",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "320",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "321",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "322",
+"source": "Amikacin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "323",
+"source": "Arbekacin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "324",
+"source": "Azithromycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "325",
+"source": "Chloramphenicol Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "326",
+"source": "Clarithromycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "327",
+"source": "Clindamycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "328",
+"source": "Clomocycline Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "329",
+"source": "Demeclocycline Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "330",
+"source": "Doxycycline Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "331",
+"source": "Erythromycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "332",
+"source": "Gentamicin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "333",
+"source": "Josamycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "334",
+"source": "Kanamycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "335",
+"source": "Lincomycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "336",
+"source": "Lymecycline Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "337",
+"source": "Methacycline Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "338",
+"source": "Minocycline Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "339",
+"source": "Neomycin Action Pathway",
+"target": "Netilmicin Action Pathway" 
+},
+{
+ "id": "340",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "341",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "342",
+"source": "Transcription/Translation",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "343",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "344",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "345",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "346",
+"source": "Amikacin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "347",
+"source": "Arbekacin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "348",
+"source": "Azithromycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "349",
+"source": "Chloramphenicol Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "350",
+"source": "Clarithromycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "351",
+"source": "Clindamycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "352",
+"source": "Clomocycline Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "353",
+"source": "Demeclocycline Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "354",
+"source": "Doxycycline Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "355",
+"source": "Erythromycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "356",
+"source": "Gentamicin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "357",
+"source": "Josamycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "358",
+"source": "Kanamycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "359",
+"source": "Lincomycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "360",
+"source": "Lymecycline Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "361",
+"source": "Methacycline Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "362",
+"source": "Minocycline Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "363",
+"source": "Neomycin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "364",
+"source": "Netilmicin Action Pathway",
+"target": "Oxytetracycline Action Pathway" 
+},
+{
+ "id": "365",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "366",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "367",
+"source": "Transcription/Translation",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "368",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "369",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "370",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "371",
+"source": "Amikacin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "372",
+"source": "Arbekacin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "373",
+"source": "Azithromycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "374",
+"source": "Chloramphenicol Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "375",
+"source": "Clarithromycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "376",
+"source": "Clindamycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "377",
+"source": "Clomocycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "378",
+"source": "Demeclocycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "379",
+"source": "Doxycycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "380",
+"source": "Erythromycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "381",
+"source": "Gentamicin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "382",
+"source": "Josamycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "383",
+"source": "Kanamycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "384",
+"source": "Lincomycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "385",
+"source": "Lymecycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "386",
+"source": "Methacycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "387",
+"source": "Minocycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "388",
+"source": "Neomycin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "389",
+"source": "Netilmicin Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "390",
+"source": "Oxytetracycline Action Pathway",
+"target": "Paromomycin Action Pathway" 
+},
+{
+ "id": "391",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "392",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "393",
+"source": "Transcription/Translation",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "394",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "395",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "396",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "397",
+"source": "Amikacin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "398",
+"source": "Arbekacin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "399",
+"source": "Azithromycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "400",
+"source": "Chloramphenicol Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "401",
+"source": "Clarithromycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "402",
+"source": "Clindamycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "403",
+"source": "Clomocycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "404",
+"source": "Demeclocycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "405",
+"source": "Doxycycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "406",
+"source": "Erythromycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "407",
+"source": "Gentamicin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "408",
+"source": "Josamycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "409",
+"source": "Kanamycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "410",
+"source": "Lincomycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "411",
+"source": "Lymecycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "412",
+"source": "Methacycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "413",
+"source": "Minocycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "414",
+"source": "Neomycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "415",
+"source": "Netilmicin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "416",
+"source": "Oxytetracycline Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "417",
+"source": "Paromomycin Action Pathway",
+"target": "Rolitetracycline Action Pathway" 
+},
+{
+ "id": "418",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "419",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "420",
+"source": "Transcription/Translation",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "421",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "422",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "423",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "424",
+"source": "Amikacin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "425",
+"source": "Arbekacin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "426",
+"source": "Azithromycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "427",
+"source": "Chloramphenicol Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "428",
+"source": "Clarithromycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "429",
+"source": "Clindamycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "430",
+"source": "Clomocycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "431",
+"source": "Demeclocycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "432",
+"source": "Doxycycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "433",
+"source": "Erythromycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "434",
+"source": "Gentamicin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "435",
+"source": "Josamycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "436",
+"source": "Kanamycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "437",
+"source": "Lincomycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "438",
+"source": "Lymecycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "439",
+"source": "Methacycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "440",
+"source": "Minocycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "441",
+"source": "Neomycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "442",
+"source": "Netilmicin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "443",
+"source": "Oxytetracycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "444",
+"source": "Paromomycin Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "445",
+"source": "Rolitetracycline Action Pathway",
+"target": "Roxithromycin Action Pathway" 
+},
+{
+ "id": "446",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "447",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "448",
+"source": "Transcription/Translation",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "449",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "450",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "451",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "452",
+"source": "Amikacin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "453",
+"source": "Arbekacin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "454",
+"source": "Azithromycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "455",
+"source": "Chloramphenicol Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "456",
+"source": "Clarithromycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "457",
+"source": "Clindamycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "458",
+"source": "Clomocycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "459",
+"source": "Demeclocycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "460",
+"source": "Doxycycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "461",
+"source": "Erythromycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "462",
+"source": "Gentamicin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "463",
+"source": "Josamycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "464",
+"source": "Kanamycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "465",
+"source": "Lincomycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "466",
+"source": "Lymecycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "467",
+"source": "Methacycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "468",
+"source": "Minocycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "469",
+"source": "Neomycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "470",
+"source": "Netilmicin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "471",
+"source": "Oxytetracycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "472",
+"source": "Paromomycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "473",
+"source": "Rolitetracycline Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "474",
+"source": "Roxithromycin Action Pathway",
+"target": "Spectinomycin Action Pathway" 
+},
+{
+ "id": "475",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "476",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "477",
+"source": "Transcription/Translation",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "478",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "479",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "480",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "481",
+"source": "Amikacin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "482",
+"source": "Arbekacin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "483",
+"source": "Azithromycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "484",
+"source": "Chloramphenicol Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "485",
+"source": "Clarithromycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "486",
+"source": "Clindamycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "487",
+"source": "Clomocycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "488",
+"source": "Demeclocycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "489",
+"source": "Doxycycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "490",
+"source": "Erythromycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "491",
+"source": "Gentamicin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "492",
+"source": "Josamycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "493",
+"source": "Kanamycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "494",
+"source": "Lincomycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "495",
+"source": "Lymecycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "496",
+"source": "Methacycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "497",
+"source": "Minocycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "498",
+"source": "Neomycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "499",
+"source": "Netilmicin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "500",
+"source": "Oxytetracycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "501",
+"source": "Paromomycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "502",
+"source": "Rolitetracycline Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "503",
+"source": "Roxithromycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "504",
+"source": "Spectinomycin Action Pathway",
+"target": "Streptomycin Action Pathway" 
+},
+{
+ "id": "505",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "506",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "507",
+"source": "Transcription/Translation",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "508",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "509",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "510",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "511",
+"source": "Amikacin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "512",
+"source": "Arbekacin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "513",
+"source": "Azithromycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "514",
+"source": "Chloramphenicol Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "515",
+"source": "Clarithromycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "516",
+"source": "Clindamycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "517",
+"source": "Clomocycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "518",
+"source": "Demeclocycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "519",
+"source": "Doxycycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "520",
+"source": "Erythromycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "521",
+"source": "Gentamicin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "522",
+"source": "Josamycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "523",
+"source": "Kanamycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "524",
+"source": "Lincomycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "525",
+"source": "Lymecycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "526",
+"source": "Methacycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "527",
+"source": "Minocycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "528",
+"source": "Neomycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "529",
+"source": "Netilmicin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "530",
+"source": "Oxytetracycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "531",
+"source": "Paromomycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "532",
+"source": "Rolitetracycline Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "533",
+"source": "Roxithromycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "534",
+"source": "Spectinomycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "535",
+"source": "Streptomycin Action Pathway",
+"target": "Telithromycin Action Pathway" 
+},
+{
+ "id": "536",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "537",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "538",
+"source": "Transcription/Translation",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "539",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "540",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "541",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "542",
+"source": "Amikacin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "543",
+"source": "Arbekacin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "544",
+"source": "Azithromycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "545",
+"source": "Chloramphenicol Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "546",
+"source": "Clarithromycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "547",
+"source": "Clindamycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "548",
+"source": "Clomocycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "549",
+"source": "Demeclocycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "550",
+"source": "Doxycycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "551",
+"source": "Erythromycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "552",
+"source": "Gentamicin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "553",
+"source": "Josamycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "554",
+"source": "Kanamycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "555",
+"source": "Lincomycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "556",
+"source": "Lymecycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "557",
+"source": "Methacycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "558",
+"source": "Minocycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "559",
+"source": "Neomycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "560",
+"source": "Netilmicin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "561",
+"source": "Oxytetracycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "562",
+"source": "Paromomycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "563",
+"source": "Rolitetracycline Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "564",
+"source": "Roxithromycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "565",
+"source": "Spectinomycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "566",
+"source": "Streptomycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "567",
+"source": "Telithromycin Action Pathway",
+"target": "Tetracycline Action Pathway" 
+},
+{
+ "id": "568",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "569",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "570",
+"source": "Transcription/Translation",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "571",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "572",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "573",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "574",
+"source": "Amikacin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "575",
+"source": "Arbekacin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "576",
+"source": "Azithromycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "577",
+"source": "Chloramphenicol Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "578",
+"source": "Clarithromycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "579",
+"source": "Clindamycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "580",
+"source": "Clomocycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "581",
+"source": "Demeclocycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "582",
+"source": "Doxycycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "583",
+"source": "Erythromycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "584",
+"source": "Gentamicin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "585",
+"source": "Josamycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "586",
+"source": "Kanamycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "587",
+"source": "Lincomycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "588",
+"source": "Lymecycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "589",
+"source": "Methacycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "590",
+"source": "Minocycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "591",
+"source": "Neomycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "592",
+"source": "Netilmicin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "593",
+"source": "Oxytetracycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "594",
+"source": "Paromomycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "595",
+"source": "Rolitetracycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "596",
+"source": "Roxithromycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "597",
+"source": "Spectinomycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "598",
+"source": "Streptomycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "599",
+"source": "Telithromycin Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "600",
+"source": "Tetracycline Action Pathway",
+"target": "Tigecycline Action Pathway" 
+},
+{
+ "id": "601",
+"source": "Amino acid transport across the plasma membrane",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "602",
+"source": "Amino acid transport defects (IEMs)",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "603",
+"source": "Transcription/Translation",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "604",
+"source": "Na+/Cl- dependent neurotransmitter transporters",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "605",
+"source": "Variant SLC6A14 may confer susceptibility towards obesity",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "606",
+"source": "Defective SLC6A19 causes Hartnup disorder (HND)",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "607",
+"source": "Amikacin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "608",
+"source": "Arbekacin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "609",
+"source": "Azithromycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "610",
+"source": "Chloramphenicol Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "611",
+"source": "Clarithromycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "612",
+"source": "Clindamycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "613",
+"source": "Clomocycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "614",
+"source": "Demeclocycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "615",
+"source": "Doxycycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "616",
+"source": "Erythromycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "617",
+"source": "Gentamicin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "618",
+"source": "Josamycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "619",
+"source": "Kanamycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "620",
+"source": "Lincomycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "621",
+"source": "Lymecycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "622",
+"source": "Methacycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "623",
+"source": "Minocycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "624",
+"source": "Neomycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "625",
+"source": "Netilmicin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "626",
+"source": "Oxytetracycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "627",
+"source": "Paromomycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "628",
+"source": "Rolitetracycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "629",
+"source": "Roxithromycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "630",
+"source": "Spectinomycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "631",
+"source": "Streptomycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "632",
+"source": "Telithromycin Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "633",
+"source": "Tetracycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+},
+{
+ "id": "634",
+"source": "Tigecycline Action Pathway",
+"target": "Tobramycin Action Pathway" 
+} ] 
+}
